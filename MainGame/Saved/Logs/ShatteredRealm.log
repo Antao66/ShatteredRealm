@@ -1321,3 +1321,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.05.05-13.24.30:661][623]LogFileHelpers: Saving map 'Main' took 0.055
 [2021.05.05-13.24.30:672][623]AssetCheck: New page: Asset Save: Main
 [2021.05.05-13.24.30:672][623]LogContentValidation: Display: Validating World /Game/Blueprints/UI/MainMenu/Main.Main
+[2021.05.05-13.26.07:295][613]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2021.05.05-13.26.08:763][774]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2021.05.05-13.26.08:768][774]LogSavePackage: Moving '../../../../../Game Dev Courses/Unreal Engine Game/MainGame/Saved/MainE9B96AC1421FF4D7422ABA97479FB5AE.tmp' to '../../../../../Game Dev Courses/Unreal Engine Game/MainGame/Content/Blueprints/UI/MainMenu/Main.umap'
+[2021.05.05-13.26.08:785][774]AssetCheck: New page: Asset Save: Main
+[2021.05.05-13.26.08:785][774]LogContentValidation: Display: Validating World /Game/Blueprints/UI/MainMenu/Main.Main
