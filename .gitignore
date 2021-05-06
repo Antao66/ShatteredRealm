@@ -75,3 +75,4 @@ DerivedDataCache/*
 
 #Custom ignores
 *.log
+Assets/*
