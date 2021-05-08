@@ -75,8 +75,4 @@ DerivedDataCache/*
 
 #Custom ignores
 *.log
-
-#Assets ignore
-*.log
 Assets/*
-AssetsMF/*
