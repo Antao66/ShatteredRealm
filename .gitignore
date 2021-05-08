@@ -77,5 +77,6 @@ DerivedDataCache/*
 *.log
 
 #Assets ignore
+*.log
 Assets/*
 AssetsMF/*
