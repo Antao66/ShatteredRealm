@@ -3771,3 +3771,602 @@ Script call stack:
 [2021.05.09-11.46.46:348][641]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
 [2021.05.09-12.51.13:001][ 94]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
 [2021.05.09-12.51.13:001][ 94]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.09-12.51.57:128][229]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.09-12.51.57:128][229]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.09-12.51.58:845][389]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2021.05.09-13.33.58:978][109]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.09-13.33.58:978][109]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.09-16.23.41:512][ 29]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.09-16.23.41:512][ 29]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.09-16.24.14:984][605]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assets/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/Assets/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:ExecuteUbergraph_Revenant_AnimBlueprint
+
+[2021.05.09-16.24.14:989][605]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assets/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/Assets/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:ExecuteUbergraph_Revenant_AnimBlueprint
+
+[2021.05.09-16.24.17:148][798]BlueprintLog: New page: Compile BP_TDController
+[2021.05.09-16.24.17:218][798]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assets/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/Assets/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:ExecuteUbergraph_Revenant_AnimBlueprint
+
+[2021.05.09-16.24.17:221][798]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assets/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/Assets/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:ExecuteUbergraph_Revenant_AnimBlueprint
+
+[2021.05.09-16.24.17:224][798]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assets/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/Assets/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:ExecuteUbergraph_Revenant_AnimBlueprint
+
+[2021.05.09-16.24.17:227][798]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assets/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/Assets/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:ExecuteUbergraph_Revenant_AnimBlueprint
+
+[2021.05.09-16.24.17:440][798]LogUObjectHash: Compacting FUObjectHashTables data took  10.55ms
+[2021.05.09-16.24.17:465][798]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assets/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/Assets/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:ExecuteUbergraph_Revenant_AnimBlueprint
+
+[2021.05.09-16.24.17:467][798]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assets/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/Assets/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:ExecuteUbergraph_Revenant_AnimBlueprint
+
+[2021.05.09-16.24.17:468][798]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assets/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/Assets/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:ExecuteUbergraph_Revenant_AnimBlueprint
+
+[2021.05.09-16.24.17:552][798]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assets/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/Assets/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:ExecuteUbergraph_Revenant_AnimBlueprint
+
+[2021.05.09-16.24.17:554][798]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assets/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/Assets/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:ExecuteUbergraph_Revenant_AnimBlueprint
+
+[2021.05.09-16.24.18:335][839]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player/BP_TDController" FILE="../../../../ShatteredRealm/MainGame/Content/Blueprints/Player/BP_TDController.uasset" SILENT=true
+[2021.05.09-16.24.18:400][839]LogSavePackage: Moving '../../../../ShatteredRealm/MainGame/Saved/BP_TDController1BD365314D57C8415E1C14922C1D741F.tmp' to '../../../../ShatteredRealm/MainGame/Content/Blueprints/Player/BP_TDController.uasset'
+[2021.05.09-16.24.18:417][839]AssetCheck: New page: Asset Save: BP_TDController
+[2021.05.09-16.24.18:417][839]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player/BP_TDController.BP_TDController
+[2021.05.09-16.24.20:252][ 28]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.09-16.24.20:260][ 28]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.09-16.24.20:260][ 28]PIE: New page: PIE session: TopDownExampleMap (May 9, 2021, 10:24:20 PM)
+[2021.05.09-16.24.20:261][ 28]LogPlayLevel: Creating play world package: /Game/AGR_EXAMPLES/Maps/UEDPIE_0_TopDownExampleMap
+[2021.05.09-16.24.20:286][ 28]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024730s)
+[2021.05.09-16.24.20:289][ 28]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.05.09-16.24.20:290][ 28]LogPlayLevel: PIE: World Init took: (0.003691s)
+[2021.05.09-16.24.20:290][ 28]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AGR_EXAMPLES/Maps/TopDownExampleMap.TopDownExampleMap to /Game/AGR_EXAMPLES/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.028875s)
+[2021.05.09-16.24.20:343][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   5.54ms
+[2021.05.09-16.24.20:348][ 28]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2021.05.09-16.24.20:349][ 28]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.09-16.24.20:349][ 28]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.09-16.24.20:349][ 28]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.09-16.24.20:349][ 28]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.09-16.24.20:349][ 28]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.09-16.24.20:349][ 28]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.09-16.24.20:349][ 28]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.09-16.24.20:349][ 28]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.09-16.24.20:349][ 28]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.09-16.24.20:349][ 28]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.09-16.24.20:353][ 28]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.09-16.24.20:353][ 28]LogAudioMixer: Display: 1: FrontRight
+[2021.05.09-16.24.20:398][ 28]LogAudioMixer: Display: Using Audio Device Динамики (2- Устройство с поддержкой High Definition Audio)
+[2021.05.09-16.24.20:401][ 28]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.09-16.24.20:401][ 28]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.09-16.24.20:401][ 28]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.09-16.24.20:403][ 28]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.09-16.24.20:403][ 28]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.09-16.24.20:403][ 28]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.09-16.24.20:406][ 28]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.09-16.24.20:406][ 28]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.09-16.24.20:406][ 28]LogInit: FAudioDevice initialized.
+[2021.05.09-16.24.20:406][ 28]LogAudio: Display: Audio Device (ID: 30) registered with world 'TopDownExampleMap'.
+[2021.05.09-16.24.20:427][ 28]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2021.05.09-16.24.20:430][ 28]LogWorld: Bringing World /Game/AGR_EXAMPLES/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2021.05.09-19.24.20
+[2021.05.09-16.24.20:430][ 28]LogWorld: Bringing up level for play took: 0.002642
+[2021.05.09-16.24.20:431][ 28]LogOnline: OSS: Creating online subsystem instance for: :Context_135
+[2021.05.09-16.24.20:434][ 28]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.05.09-16.24.20:434][ 28]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.05.09-16.24.20:434][ 28]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.05.09-16.24.20:435][ 28]LogScript: Warning: Script Msg: Divide by zero detected: 179.999237 / 0
+Script call stack:
+	Function /Game/Assets/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/Assets/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:ExecuteUbergraph_Revenant_AnimBlueprint
+
+[2021.05.09-16.24.20:445][ 28]LogBlueprintUserMessages: [BP_StandardEnemy_2] 100.0
+[2021.05.09-16.24.20:445][ 28]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.05.09-16.24.20:445][ 28]PIE: Server logged in
+[2021.05.09-16.24.20:446][ 28]PIE: Play in editor total start time 0.187 seconds.
+[2021.05.09-16.24.22:603][273]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/Assets/ParagonRevenant/Characters/Heroes/Revenant/Animations/LevelStart_Montage.LevelStart_Montage'
+[2021.05.09-16.24.37:092][  1]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.09-16.24.37:092][  1]LogWorld: BeginTearingDown for /Game/AGR_EXAMPLES/Maps/UEDPIE_0_TopDownExampleMap
+[2021.05.09-16.24.37:092][  1]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.09-16.24.37:093][  1]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.09-16.24.37:105][  1]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.09-16.24.37:137][  1]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.09-16.24.37:175][  1]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.09-16.24.37:176][  1]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.09-16.24.37:177][  1]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.09-16.24.37:188][  1]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.09-16.24.37:193][  1]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2021.05.09-16.24.37:265][  2]LogPlayLevel: Display: Destroying online subsystem :Context_135
+[2021.05.09-17.50.00:076][369]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.09-17.50.00:076][369]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.09-18.05.42:524][286]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.09-18.05.42:524][286]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.09-18.20.12:000][278]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.09-18.20.12:000][278]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.09-18.25.53:034][580]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.09-18.25.53:035][580]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.09-18.31.25:722][799]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.09-18.31.25:722][799]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.09-18.33.14:363][447]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2021.05.09-18.44.51:413][977]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.09-18.44.51:413][977]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.09-20.09.10:183][907]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assets/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/Assets/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:ExecuteUbergraph_Revenant_AnimBlueprint
+
+[2021.05.09-20.09.10:186][907]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assets/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/Assets/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:ExecuteUbergraph_Revenant_AnimBlueprint
+
+[2021.05.09-20.09.11:735][ 72]BlueprintLog: New page: Compile BP_TDController
+[2021.05.09-20.09.11:769][ 72]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assets/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/Assets/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:ExecuteUbergraph_Revenant_AnimBlueprint
+
+[2021.05.09-20.09.11:772][ 72]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assets/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/Assets/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:ExecuteUbergraph_Revenant_AnimBlueprint
+
+[2021.05.09-20.09.11:774][ 72]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assets/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/Assets/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:ExecuteUbergraph_Revenant_AnimBlueprint
+
+[2021.05.09-20.09.11:776][ 72]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assets/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/Assets/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:ExecuteUbergraph_Revenant_AnimBlueprint
+
+[2021.05.09-20.09.11:847][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2021.05.09-20.09.11:855][ 72]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assets/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/Assets/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:ExecuteUbergraph_Revenant_AnimBlueprint
+
+[2021.05.09-20.09.11:857][ 72]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assets/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/Assets/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:ExecuteUbergraph_Revenant_AnimBlueprint
+
+[2021.05.09-20.09.11:859][ 72]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assets/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/Assets/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:ExecuteUbergraph_Revenant_AnimBlueprint
+
+[2021.05.09-20.09.11:888][ 72]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assets/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/Assets/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:ExecuteUbergraph_Revenant_AnimBlueprint
+
+[2021.05.09-20.09.11:890][ 72]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assets/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/Assets/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:ExecuteUbergraph_Revenant_AnimBlueprint
+
+[2021.05.09-20.09.12:434][113]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player/BP_TDController" FILE="../../../../ShatteredRealm/MainGame/Content/Blueprints/Player/BP_TDController.uasset" SILENT=true
+[2021.05.09-20.09.12:489][113]LogSavePackage: Moving '../../../../ShatteredRealm/MainGame/Saved/BP_TDController3D2DD63D4615A17E18F0819C8A9CD9CC.tmp' to '../../../../ShatteredRealm/MainGame/Content/Blueprints/Player/BP_TDController.uasset'
+[2021.05.09-20.09.12:504][113]AssetCheck: New page: Asset Save: BP_TDController
+[2021.05.09-20.09.12:504][113]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player/BP_TDController.BP_TDController
+[2021.05.09-20.14.13:885][736]BlueprintLog: New page: Compile BP_TDController
+[2021.05.09-20.14.13:906][736]LogBlueprint: Error: [AssetLog] D:\ShatteredRealm\MainGame\Content\Blueprints\Player\BP_TDController.uasset: [Compiler] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2021.05.09-20.14.13:913][736]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assets/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/Assets/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:ExecuteUbergraph_Revenant_AnimBlueprint
+
+[2021.05.09-20.14.13:915][736]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assets/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/Assets/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:ExecuteUbergraph_Revenant_AnimBlueprint
+
+[2021.05.09-20.14.13:916][736]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assets/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/Assets/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:ExecuteUbergraph_Revenant_AnimBlueprint
+
+[2021.05.09-20.14.13:918][736]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assets/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/Assets/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:ExecuteUbergraph_Revenant_AnimBlueprint
+
+[2021.05.09-20.14.13:982][736]LogUObjectHash: Compacting FUObjectHashTables data took   5.34ms
+[2021.05.09-20.14.13:986][736]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assets/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/Assets/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:ExecuteUbergraph_Revenant_AnimBlueprint
+
+[2021.05.09-20.14.13:987][736]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assets/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/Assets/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:ExecuteUbergraph_Revenant_AnimBlueprint
+
+[2021.05.09-20.14.13:988][736]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assets/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/Assets/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:ExecuteUbergraph_Revenant_AnimBlueprint
+
+[2021.05.09-20.14.14:003][736]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assets/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/Assets/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:ExecuteUbergraph_Revenant_AnimBlueprint
+
+[2021.05.09-20.14.14:004][736]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assets/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/Assets/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:ExecuteUbergraph_Revenant_AnimBlueprint
+
+[2021.05.09-20.14.14:357][765]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player/BP_TDController" FILE="../../../../ShatteredRealm/MainGame/Content/Blueprints/Player/BP_TDController.uasset" SILENT=true
+[2021.05.09-20.14.14:403][765]LogSavePackage: Moving '../../../../ShatteredRealm/MainGame/Saved/BP_TDControllerE7765FD843168C131D288EBDB40E53EC.tmp' to '../../../../ShatteredRealm/MainGame/Content/Blueprints/Player/BP_TDController.uasset'
+[2021.05.09-20.14.14:418][765]AssetCheck: New page: Asset Save: BP_TDController
+[2021.05.09-20.14.14:418][765]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player/BP_TDController.BP_TDController
+[2021.05.09-20.14.27:448][270]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.09-20.14.27:448][270]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.09-20.15.00:502][151]BlueprintLog: New page: Compile BP_TDController
+[2021.05.09-20.15.00:520][151]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assets/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/Assets/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:ExecuteUbergraph_Revenant_AnimBlueprint
+
+[2021.05.09-20.15.00:522][151]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assets/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/Assets/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:ExecuteUbergraph_Revenant_AnimBlueprint
+
+[2021.05.09-20.15.00:523][151]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assets/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/Assets/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:ExecuteUbergraph_Revenant_AnimBlueprint
+
+[2021.05.09-20.15.00:524][151]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assets/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/Assets/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:ExecuteUbergraph_Revenant_AnimBlueprint
+
+[2021.05.09-20.15.00:588][151]LogUObjectHash: Compacting FUObjectHashTables data took   4.98ms
+[2021.05.09-20.15.00:592][151]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assets/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/Assets/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:ExecuteUbergraph_Revenant_AnimBlueprint
+
+[2021.05.09-20.15.00:593][151]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assets/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/Assets/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:ExecuteUbergraph_Revenant_AnimBlueprint
+
+[2021.05.09-20.15.00:594][151]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assets/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/Assets/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:ExecuteUbergraph_Revenant_AnimBlueprint
+
+[2021.05.09-20.15.00:610][151]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assets/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/Assets/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:ExecuteUbergraph_Revenant_AnimBlueprint
+
+[2021.05.09-20.15.00:612][151]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assets/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/Assets/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:ExecuteUbergraph_Revenant_AnimBlueprint
+
+[2021.05.09-20.15.01:548][247]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player/BP_TDController" FILE="../../../../ShatteredRealm/MainGame/Content/Blueprints/Player/BP_TDController.uasset" SILENT=true
+[2021.05.09-20.15.01:597][247]LogSavePackage: Moving '../../../../ShatteredRealm/MainGame/Saved/BP_TDController1707517D45683AEE663768B6A830AF58.tmp' to '../../../../ShatteredRealm/MainGame/Content/Blueprints/Player/BP_TDController.uasset'
+[2021.05.09-20.15.01:612][247]AssetCheck: New page: Asset Save: BP_TDController
+[2021.05.09-20.15.01:612][247]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player/BP_TDController.BP_TDController
+[2021.05.09-20.15.04:003][520]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.09-20.15.04:009][520]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.09-20.15.04:009][520]PIE: New page: PIE session: TopDownExampleMap (May 10, 2021, 2:15:04 AM)
+[2021.05.09-20.15.04:010][520]LogPlayLevel: Creating play world package: /Game/AGR_EXAMPLES/Maps/UEDPIE_0_TopDownExampleMap
+[2021.05.09-20.15.04:032][520]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021612s)
+[2021.05.09-20.15.04:033][520]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.05.09-20.15.04:033][520]LogPlayLevel: PIE: World Init took: (0.001493s)
+[2021.05.09-20.15.04:033][520]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AGR_EXAMPLES/Maps/TopDownExampleMap.TopDownExampleMap to /Game/AGR_EXAMPLES/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.023384s)
+[2021.05.09-20.15.04:077][520]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2021.05.09-20.15.04:079][520]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2021.05.09-20.15.04:079][520]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.09-20.15.04:079][520]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.09-20.15.04:079][520]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.09-20.15.04:079][520]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.09-20.15.04:079][520]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.09-20.15.04:079][520]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.09-20.15.04:079][520]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.09-20.15.04:079][520]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.09-20.15.04:079][520]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.09-20.15.04:079][520]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.09-20.15.04:081][520]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.09-20.15.04:081][520]LogAudioMixer: Display: 1: FrontRight
+[2021.05.09-20.15.04:120][520]LogAudioMixer: Display: Using Audio Device Динамики (2- Устройство с поддержкой High Definition Audio)
+[2021.05.09-20.15.04:122][520]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.09-20.15.04:122][520]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.09-20.15.04:122][520]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.09-20.15.04:123][520]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.09-20.15.04:123][520]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.09-20.15.04:123][520]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.09-20.15.04:125][520]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.09-20.15.04:125][520]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.09-20.15.04:125][520]LogInit: FAudioDevice initialized.
+[2021.05.09-20.15.04:125][520]LogAudio: Display: Audio Device (ID: 31) registered with world 'TopDownExampleMap'.
+[2021.05.09-20.15.04:140][520]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2021.05.09-20.15.04:142][520]LogWorld: Bringing World /Game/AGR_EXAMPLES/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2021.05.09-23.15.04
+[2021.05.09-20.15.04:142][520]LogWorld: Bringing up level for play took: 0.002073
+[2021.05.09-20.15.04:143][520]LogOnline: OSS: Creating online subsystem instance for: :Context_136
+[2021.05.09-20.15.04:146][520]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.05.09-20.15.04:146][520]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.05.09-20.15.04:146][520]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.05.09-20.15.04:146][520]LogScript: Warning: Script Msg: Divide by zero detected: 179.999237 / 0
+Script call stack:
+	Function /Game/Assets/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/Assets/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:ExecuteUbergraph_Revenant_AnimBlueprint
+
+[2021.05.09-20.15.04:155][520]LogBlueprintUserMessages: [BP_StandardEnemy_2] 100.0
+[2021.05.09-20.15.04:156][520]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.05.09-20.15.04:156][520]PIE: Server logged in
+[2021.05.09-20.15.04:157][520]PIE: Play in editor total start time 0.148 seconds.
+[2021.05.09-20.15.06:350][754]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/Assets/ParagonRevenant/Characters/Heroes/Revenant/Animations/LevelStart_Montage.LevelStart_Montage'
+[2021.05.09-20.15.16:202][932]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.09-20.15.16:202][932]LogWorld: BeginTearingDown for /Game/AGR_EXAMPLES/Maps/UEDPIE_0_TopDownExampleMap
+[2021.05.09-20.15.16:202][932]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.09-20.15.16:202][932]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.09-20.15.16:209][932]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.09-20.15.16:231][932]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.09-20.15.16:267][932]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.09-20.15.16:267][932]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.09-20.15.16:268][932]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.09-20.15.16:280][932]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.09-20.15.16:285][932]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2021.05.09-20.15.16:337][933]LogPlayLevel: Display: Destroying online subsystem :Context_136
+[2021.05.09-20.15.25:586][982]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.05.09-20.15.25:586][982]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.05.09-20.15.25:586][982]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.09-20.15.30:581][412]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Assets/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint
+[2021.05.09-20.15.30:618][412]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_107:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.05.09-20.22.40:534][374]BlueprintLog: New page: Compile Revenant_Anim_BP
+[2021.05.09-20.22.40:536][374]LogBlueprint: Warning: [AssetLog] D:\ShatteredRealm\MainGame\Content\Blueprints\Player\Revenant_Anim_BP.uasset: [Compiler] Idle to Walk  will never be taken, please connect something to  Can Enter Transition
+[2021.05.09-20.22.40:536][374]LogBlueprint: Warning: [AssetLog] D:\ShatteredRealm\MainGame\Content\Blueprints\Player\Revenant_Anim_BP.uasset: [Compiler] Walk to Idle  will never be taken, please connect something to  Can Enter Transition
+[2021.05.09-20.22.40:656][374]LogUObjectHash: Compacting FUObjectHashTables data took   5.02ms
+[2021.05.09-20.22.41:271][438]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player/Revenant_Anim_BP" FILE="../../../../ShatteredRealm/MainGame/Content/Blueprints/Player/Revenant_Anim_BP.uasset" SILENT=true
+[2021.05.09-20.22.41:281][438]LogSavePackage: Moving '../../../../ShatteredRealm/MainGame/Saved/Revenant_Anim_BPE1CAC6614FC44B6E1060BFA6388065A8.tmp' to '../../../../ShatteredRealm/MainGame/Content/Blueprints/Player/Revenant_Anim_BP.uasset'
+[2021.05.09-20.22.41:295][438]AssetCheck: New page: Asset Save: Revenant_Anim_BP
+[2021.05.09-20.22.41:295][438]LogContentValidation: Display: Validating AnimBlueprint /Game/Blueprints/Player/Revenant_Anim_BP.Revenant_Anim_BP
+[2021.05.09-20.36.22:893][776]LogSlate: Window 'Pick Skeleton' being destroyed
+[2021.05.09-20.36.22:899][776]LogContentBrowser: Deferred new asset file creation: NewBlendSpace
+[2021.05.09-20.36.22:914][776]LogContentBrowser: Creating deferred item: NewBlendSpace
+[2021.05.09-20.36.32:995][546]LogContentBrowser: Attempting asset rename: NewBlendSpace -> Revenant_Blend_BP
+[2021.05.09-20.36.32:999][546]LogContentBrowser: End creating deferred item NewBlendSpace
+[2021.05.09-20.36.36:263][724]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/Blueprints/Player/Revenant_Blend_BP.Revenant_Blend_BP
+[2021.05.09-20.36.36:274][724]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_109:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.05.09-20.36.36:632][724]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.05.09-21.13.45:273][774]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Assets/ParagonRevenant/Characters/Heroes/Revenant/Animations/NonCombat_Idle_Turn_180_Left.NonCombat_Idle_Turn_180_Left
+[2021.05.09-21.13.49:729][139]LogWorld: UWorld::CleanupWorld for World_109, bSessionEnded=true, bCleanupResources=true
+[2021.05.09-21.13.49:729][139]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.09-21.13.49:744][139]LogWorld: UWorld::CleanupWorld for World_111, bSessionEnded=true, bCleanupResources=true
+[2021.05.09-21.13.49:744][139]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.09-21.13.49:882][139]LogWorld: UWorld::CleanupWorld for World_110, bSessionEnded=true, bCleanupResources=true
+[2021.05.09-21.13.49:882][139]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.09-21.14.00:372][114]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/Blueprints/Player/Revenant_Blend_BP.Revenant_Blend_BP
+[2021.05.09-21.14.00:382][114]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_112:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.05.09-21.14.00:689][114]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.05.09-21.14.34:172][482]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Assets/ParagonRevenant/Characters/Heroes/Revenant/Animations/Idle.Idle
+[2021.05.09-21.14.40:971][114]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Assets/ParagonRevenant/Characters/Heroes/Revenant/Animations/AimOffsets/Idle_AO_CC.Idle_AO_CC
+[2021.05.09-21.14.41:064][114]LogWorld: UWorld::CleanupWorld for World_114, bSessionEnded=true, bCleanupResources=true
+[2021.05.09-21.14.41:064][114]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.09-21.14.44:688][431]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Assets/ParagonRevenant/Characters/Heroes/Revenant/Animations/AimOffsets/Idle_AO_CD.Idle_AO_CD
+[2021.05.09-21.14.44:788][431]LogWorld: UWorld::CleanupWorld for World_115, bSessionEnded=true, bCleanupResources=true
+[2021.05.09-21.14.44:788][431]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.09-21.14.50:906][778]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Assets/ParagonRevenant/Characters/Heroes/Revenant/Animations/Idle_Turn_180_Right.Idle_Turn_180_Right
+[2021.05.09-21.14.51:070][778]LogWorld: UWorld::CleanupWorld for World_116, bSessionEnded=true, bCleanupResources=true
+[2021.05.09-21.14.51:070][778]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.09-21.14.55:055][ 86]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Assets/ParagonRevenant/Characters/Heroes/Revenant/Animations/NonCombat_Idle_Turn_180_Left.NonCombat_Idle_Turn_180_Left
+[2021.05.09-21.14.55:136][ 86]LogWorld: UWorld::CleanupWorld for World_117, bSessionEnded=true, bCleanupResources=true
+[2021.05.09-21.14.55:136][ 86]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.09-21.14.57:773][320]LogAssetEditorSubsystem: Opening Asset editor for AimOffsetBlendSpace /Game/Assets/ParagonRevenant/Characters/Heroes/Revenant/Animations/AimOffsets/Revenant_Idle_AO.Revenant_Idle_AO
+[2021.05.09-21.14.57:849][320]LogWorld: UWorld::CleanupWorld for World_118, bSessionEnded=true, bCleanupResources=true
+[2021.05.09-21.14.57:849][320]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.09-21.15.19:497][729]LogWorld: UWorld::CleanupWorld for World_112, bSessionEnded=true, bCleanupResources=true
+[2021.05.09-21.15.19:497][729]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.09-21.15.19:548][729]LogWorld: UWorld::CleanupWorld for World_113, bSessionEnded=true, bCleanupResources=true
+[2021.05.09-21.15.19:548][729]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.09-21.15.39:806][433]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/Blueprints/Player/Revenant_Blend_BP.Revenant_Blend_BP
+[2021.05.09-21.15.39:816][433]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_119:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.05.09-21.15.40:121][433]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.05.09-21.16.08:690][259]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Assets/ParagonRevenant/Characters/Heroes/Revenant/Animations/Idle.Idle
+[2021.05.09-21.16.37:426][227]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/Blueprints/Player/Revenant_Blend_BP.Revenant_Blend_BP
+[2021.05.09-21.16.37:473][227]LogWorld: UWorld::CleanupWorld for World_121, bSessionEnded=true, bCleanupResources=true
+[2021.05.09-21.16.37:473][227]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.09-21.16.51:592][773]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/Blueprints/Player/Revenant_Blend_BP.Revenant_Blend_BP
+[2021.05.09-21.16.51:637][773]LogWorld: UWorld::CleanupWorld for World_122, bSessionEnded=true, bCleanupResources=true
+[2021.05.09-21.16.51:637][773]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.09-21.17.08:258][578]LogContentBrowser: Verbose: The majority of assets in the view are of type: None
+[2021.05.09-21.17.09:475][723]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.05.09-21.18.01:705][663]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player/Revenant_Blend_BP" FILE="../../../../ShatteredRealm/MainGame/Content/Blueprints/Player/Revenant_Blend_BP.uasset" SILENT=true
+[2021.05.09-21.18.01:710][663]LogSavePackage: Moving '../../../../ShatteredRealm/MainGame/Saved/Revenant_Blend_BP97C3A4AD49E92AEEAC9B07904618D4EE.tmp' to '../../../../ShatteredRealm/MainGame/Content/Blueprints/Player/Revenant_Blend_BP.uasset'
+[2021.05.09-21.18.01:727][663]AssetCheck: New page: Asset Save: Revenant_Blend_BP
+[2021.05.09-21.18.01:727][663]LogContentValidation: Display: Validating BlendSpace /Game/Blueprints/Player/Revenant_Blend_BP.Revenant_Blend_BP
+[2021.05.09-21.18.05:754][125]LogWorld: UWorld::CleanupWorld for World_107, bSessionEnded=true, bCleanupResources=true
+[2021.05.09-21.18.05:754][125]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.09-21.18.05:764][125]LogWorld: UWorld::CleanupWorld for World_106, bSessionEnded=true, bCleanupResources=true
+[2021.05.09-21.18.05:764][125]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.09-21.18.05:845][125]LogWorld: UWorld::CleanupWorld for World_108, bSessionEnded=true, bCleanupResources=true
+[2021.05.09-21.18.05:845][125]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.09-21.21.33:961][881]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.05.09-21.22.00:550][446]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player/Revenant_Blend_BP" FILE="../../../../ShatteredRealm/MainGame/Content/Blueprints/Player/Revenant_Blend_BP.uasset" SILENT=true
+[2021.05.09-21.22.00:551][446]LogSavePackage: Moving '../../../../ShatteredRealm/MainGame/Saved/Revenant_Blend_BPEEAC06F24B650A67F11B4B918B8341DA.tmp' to '../../../../ShatteredRealm/MainGame/Content/Blueprints/Player/Revenant_Blend_BP.uasset'
+[2021.05.09-21.22.00:565][446]AssetCheck: New page: Asset Save: Revenant_Blend_BP
+[2021.05.09-21.22.00:565][446]LogContentValidation: Display: Validating BlendSpace /Game/Blueprints/Player/Revenant_Blend_BP.Revenant_Blend_BP
+[2021.05.09-21.22.01:343][521]LogWorld: UWorld::CleanupWorld for World_119, bSessionEnded=true, bCleanupResources=true
+[2021.05.09-21.22.01:343][521]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.09-21.22.01:391][521]LogWorld: UWorld::CleanupWorld for World_120, bSessionEnded=true, bCleanupResources=true
+[2021.05.09-21.22.01:391][521]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.09-21.22.14:502][642]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Assets/ParagonRevenant/Characters/Heroes/Revenant/Animations/Idle.Idle
+[2021.05.09-21.22.14:512][642]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_123:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.05.09-21.22.14:830][642]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.05.09-21.22.18:551][ 12]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Assets/ParagonRevenant/Characters/Heroes/Revenant/Animations/Idle_Alternate.Idle_Alternate
+[2021.05.09-21.22.18:626][ 12]LogWorld: UWorld::CleanupWorld for World_125, bSessionEnded=true, bCleanupResources=true
+[2021.05.09-21.22.18:626][ 12]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.09-21.22.40:652][566]LogWorld: UWorld::CleanupWorld for World_123, bSessionEnded=true, bCleanupResources=true
+[2021.05.09-21.22.40:652][566]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.09-21.22.40:667][566]LogWorld: UWorld::CleanupWorld for World_126, bSessionEnded=true, bCleanupResources=true
+[2021.05.09-21.22.40:667][566]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.09-21.22.40:715][566]LogWorld: UWorld::CleanupWorld for World_124, bSessionEnded=true, bCleanupResources=true
+[2021.05.09-21.22.40:715][566]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.09-21.23.00:151][639]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Assets/ParagonRevenant/Characters/Heroes/Revenant/Animations/Idle_Alternate_Additive.Idle_Alternate_Additive
+[2021.05.09-21.23.00:160][639]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_127:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.05.09-21.23.00:494][639]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.05.09-21.23.20:287][631]BlueprintLog: New page: Compile Revenant_Anim_BP
+[2021.05.09-21.23.20:289][631]LogBlueprint: Warning: [AssetLog] D:\ShatteredRealm\MainGame\Content\Blueprints\Player\Revenant_Anim_BP.uasset: [Compiler] Idle to Walk  will never be taken, please connect something to  Can Enter Transition
+[2021.05.09-21.23.20:289][631]LogBlueprint: Warning: [AssetLog] D:\ShatteredRealm\MainGame\Content\Blueprints\Player\Revenant_Anim_BP.uasset: [Compiler] Walk to Idle  will never be taken, please connect something to  Can Enter Transition
+[2021.05.09-21.23.20:435][631]LogUObjectHash: Compacting FUObjectHashTables data took   4.96ms
+[2021.05.09-21.23.20:880][674]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player/Revenant_Anim_BP" FILE="../../../../ShatteredRealm/MainGame/Content/Blueprints/Player/Revenant_Anim_BP.uasset" SILENT=true
+[2021.05.09-21.23.20:891][674]LogSavePackage: Moving '../../../../ShatteredRealm/MainGame/Saved/Revenant_Anim_BPC765054C479714AF8FB9498DC6A44F1F.tmp' to '../../../../ShatteredRealm/MainGame/Content/Blueprints/Player/Revenant_Anim_BP.uasset'
+[2021.05.09-21.23.20:904][674]AssetCheck: New page: Asset Save: Revenant_Anim_BP
+[2021.05.09-21.23.20:904][674]LogContentValidation: Display: Validating AnimBlueprint /Game/Blueprints/Player/Revenant_Anim_BP.Revenant_Anim_BP
+[2021.05.09-21.23.28:536][366]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/Blueprints/Player/Revenant_Blend_BP.Revenant_Blend_BP
+[2021.05.09-21.23.28:594][366]LogWorld: UWorld::CleanupWorld for World_129, bSessionEnded=true, bCleanupResources=true
+[2021.05.09-21.23.28:594][366]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.09-21.24.36:999][732]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player/Revenant_Blend_BP" FILE="../../../../ShatteredRealm/MainGame/Content/Blueprints/Player/Revenant_Blend_BP.uasset" SILENT=true
+[2021.05.09-21.24.37:004][732]LogSavePackage: Moving '../../../../ShatteredRealm/MainGame/Saved/Revenant_Blend_BP0147AC624CA825EEC6E2F6AE82002C52.tmp' to '../../../../ShatteredRealm/MainGame/Content/Blueprints/Player/Revenant_Blend_BP.uasset'
+[2021.05.09-21.24.37:015][732]AssetCheck: New page: Asset Save: Revenant_Blend_BP
+[2021.05.09-21.24.37:015][732]LogContentValidation: Display: Validating BlendSpace /Game/Blueprints/Player/Revenant_Blend_BP.Revenant_Blend_BP
+[2021.05.09-21.24.37:972][831]LogWorld: UWorld::CleanupWorld for World_127, bSessionEnded=true, bCleanupResources=true
+[2021.05.09-21.24.37:972][831]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.09-21.24.38:020][831]LogWorld: UWorld::CleanupWorld for World_128, bSessionEnded=true, bCleanupResources=true
+[2021.05.09-21.24.38:020][831]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.09-21.24.40:369][ 89]BlueprintLog: New page: Compile Revenant_Anim_BP
+[2021.05.09-21.24.40:371][ 89]LogBlueprint: Warning: [AssetLog] D:\ShatteredRealm\MainGame\Content\Blueprints\Player\Revenant_Anim_BP.uasset: [Compiler] Idle to Walk  will never be taken, please connect something to  Can Enter Transition
+[2021.05.09-21.24.40:371][ 89]LogBlueprint: Warning: [AssetLog] D:\ShatteredRealm\MainGame\Content\Blueprints\Player\Revenant_Anim_BP.uasset: [Compiler] Walk to Idle  will never be taken, please connect something to  Can Enter Transition
+[2021.05.09-21.24.40:427][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2021.05.09-21.24.40:856][126]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player/Revenant_Anim_BP" FILE="../../../../ShatteredRealm/MainGame/Content/Blueprints/Player/Revenant_Anim_BP.uasset" SILENT=true
+[2021.05.09-21.24.40:867][126]LogSavePackage: Moving '../../../../ShatteredRealm/MainGame/Saved/Revenant_Anim_BP90117EDD4FA910195623BF9E9B359D2E.tmp' to '../../../../ShatteredRealm/MainGame/Content/Blueprints/Player/Revenant_Anim_BP.uasset'
+[2021.05.09-21.24.40:878][126]AssetCheck: New page: Asset Save: Revenant_Anim_BP
+[2021.05.09-21.24.40:878][126]LogContentValidation: Display: Validating AnimBlueprint /Game/Blueprints/Player/Revenant_Anim_BP.Revenant_Anim_BP
+[2021.05.09-21.24.59:353][950]LogContentBrowser: Verbose: The majority of assets in the view are of type: None
+[2021.05.09-21.25.00:007][ 28]LogContentBrowser: Verbose: The majority of assets in the view are of type: BlendSpace
+[2021.05.09-21.25.41:918][577]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2021.05.09-21.25.41:926][577]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/AGR_EXAMPLES/Maps/TopDownExampleMap' took 0.081
+[2021.05.09-21.25.41:926][577]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Player/Revenant_Anim_BP] ([1] browsable assets)...
+[2021.05.09-21.25.41:946][577]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Blueprints/Player/Revenant_Anim_BP.Revenant_Anim_BP]
+[2021.05.09-21.25.41:946][577]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/Revenant_Anim_BP]
+[2021.05.09-21.25.41:959][577]LogSavePackage: Moving '../../../../ShatteredRealm/MainGame/Saved/Revenant_Anim_BP_Auto773CF6A1046F2B009A8CB20B130FD0BF3.tmp' to '../../../../ShatteredRealm/MainGame/Saved/Autosaves/Game/Blueprints/Player/Revenant_Anim_BP_Auto7.uasset'
+[2021.05.09-21.25.41:959][577]LogFileHelpers: Auto-saving content packages took 0.033
+[2021.05.09-21.29.13:184][906]BlueprintLog: New page: Compile Revenant_Anim_BP
+[2021.05.09-21.29.13:187][906]LogBlueprint: Warning: [AssetLog] D:\ShatteredRealm\MainGame\Content\Blueprints\Player\Revenant_Anim_BP.uasset: [Compiler] Idle to Walk  will never be taken, please connect something to  Can Enter Transition
+[2021.05.09-21.29.13:187][906]LogBlueprint: Warning: [AssetLog] D:\ShatteredRealm\MainGame\Content\Blueprints\Player\Revenant_Anim_BP.uasset: [Compiler] Walk to Idle  will never be taken, please connect something to  Can Enter Transition
+[2021.05.09-21.29.13:210][906]LogBlueprint: Error: [AssetLog] D:\ShatteredRealm\MainGame\Content\Blueprints\Player\Revenant_Anim_BP.uasset: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To BP_TDController  to imply a specific type.
+[2021.05.09-21.29.13:210][906]LogBlueprint: Error: [AssetLog] D:\ShatteredRealm\MainGame\Content\Blueprints\Player\Revenant_Anim_BP.uasset: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2021.05.09-21.29.13:262][906]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2021.05.09-21.29.13:871][970]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player/Revenant_Anim_BP" FILE="../../../../ShatteredRealm/MainGame/Content/Blueprints/Player/Revenant_Anim_BP.uasset" SILENT=true
+[2021.05.09-21.29.13:887][970]LogSavePackage: Moving '../../../../ShatteredRealm/MainGame/Saved/Revenant_Anim_BP7374D6D042E7BB33C7A8BEA76225A1BF.tmp' to '../../../../ShatteredRealm/MainGame/Content/Blueprints/Player/Revenant_Anim_BP.uasset'
+[2021.05.09-21.29.13:899][970]AssetCheck: New page: Asset Save: Revenant_Anim_BP
+[2021.05.09-21.29.13:899][970]LogContentValidation: Display: Validating AnimBlueprint /Game/Blueprints/Player/Revenant_Anim_BP.Revenant_Anim_BP
+[2021.05.09-21.29.38:335][359]BlueprintLog: New page: Compile Revenant_Anim_BP
+[2021.05.09-21.29.38:338][359]LogBlueprint: Warning: [AssetLog] D:\ShatteredRealm\MainGame\Content\Blueprints\Player\Revenant_Anim_BP.uasset: [Compiler] Idle to Walk  will never be taken, please connect something to  Can Enter Transition
+[2021.05.09-21.29.38:339][359]LogBlueprint: Warning: [AssetLog] D:\ShatteredRealm\MainGame\Content\Blueprints\Player\Revenant_Anim_BP.uasset: [Compiler] Walk to Idle  will never be taken, please connect something to  Can Enter Transition
+[2021.05.09-21.29.38:389][359]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2021.05.09-21.29.39:148][438]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player/Revenant_Anim_BP" FILE="../../../../ShatteredRealm/MainGame/Content/Blueprints/Player/Revenant_Anim_BP.uasset" SILENT=true
+[2021.05.09-21.29.39:164][438]LogSavePackage: Moving '../../../../ShatteredRealm/MainGame/Saved/Revenant_Anim_BP4EC699C9470F9CDD677CF78D78C8FDE4.tmp' to '../../../../ShatteredRealm/MainGame/Content/Blueprints/Player/Revenant_Anim_BP.uasset'
+[2021.05.09-21.29.39:176][438]AssetCheck: New page: Asset Save: Revenant_Anim_BP
+[2021.05.09-21.29.39:176][438]LogContentValidation: Display: Validating AnimBlueprint /Game/Blueprints/Player/Revenant_Anim_BP.Revenant_Anim_BP
+[2021.05.09-21.30.37:087][239]BlueprintLog: New page: Compile Revenant_Anim_BP
+[2021.05.09-21.30.37:090][239]LogBlueprint: Warning: [AssetLog] D:\ShatteredRealm\MainGame\Content\Blueprints\Player\Revenant_Anim_BP.uasset: [Compiler] Walk to Idle  will never be taken, please connect something to  Can Enter Transition
+[2021.05.09-21.30.37:141][239]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2021.05.09-21.30.37:679][292]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player/Revenant_Anim_BP" FILE="../../../../ShatteredRealm/MainGame/Content/Blueprints/Player/Revenant_Anim_BP.uasset" SILENT=true
+[2021.05.09-21.30.37:696][292]LogSavePackage: Moving '../../../../ShatteredRealm/MainGame/Saved/Revenant_Anim_BP94DFF2B249BF2AA856DDB28CBD401BD8.tmp' to '../../../../ShatteredRealm/MainGame/Content/Blueprints/Player/Revenant_Anim_BP.uasset'
+[2021.05.09-21.30.37:709][292]AssetCheck: New page: Asset Save: Revenant_Anim_BP
+[2021.05.09-21.30.37:709][292]LogContentValidation: Display: Validating AnimBlueprint /Game/Blueprints/Player/Revenant_Anim_BP.Revenant_Anim_BP
+[2021.05.09-21.30.58:428][580]BlueprintLog: New page: Compile Revenant_Anim_BP
+[2021.05.09-21.30.58:481][580]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2021.05.09-21.30.59:182][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player/Revenant_Anim_BP" FILE="../../../../ShatteredRealm/MainGame/Content/Blueprints/Player/Revenant_Anim_BP.uasset" SILENT=true
+[2021.05.09-21.30.59:199][655]LogSavePackage: Moving '../../../../ShatteredRealm/MainGame/Saved/Revenant_Anim_BP9180CB654D684BFC9F1C3ABD0C3ABC64.tmp' to '../../../../ShatteredRealm/MainGame/Content/Blueprints/Player/Revenant_Anim_BP.uasset'
+[2021.05.09-21.30.59:210][655]AssetCheck: New page: Asset Save: Revenant_Anim_BP
+[2021.05.09-21.30.59:210][655]LogContentValidation: Display: Validating AnimBlueprint /Game/Blueprints/Player/Revenant_Anim_BP.Revenant_Anim_BP
+[2021.05.09-21.31.05:445][310]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.05.09-21.31.14:929][294]BlueprintLog: New page: Compile BP_TDController
+[2021.05.09-21.31.15:013][294]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2021.05.09-21.31.15:483][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player/BP_TDController" FILE="../../../../ShatteredRealm/MainGame/Content/Blueprints/Player/BP_TDController.uasset" SILENT=true
+[2021.05.09-21.31.15:528][336]LogSavePackage: Moving '../../../../ShatteredRealm/MainGame/Saved/BP_TDController4F0B0A754A146D6F82790981BB807AA7.tmp' to '../../../../ShatteredRealm/MainGame/Content/Blueprints/Player/BP_TDController.uasset'
+[2021.05.09-21.31.15:541][336]AssetCheck: New page: Asset Save: BP_TDController
+[2021.05.09-21.31.15:541][336]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player/BP_TDController.BP_TDController
+[2021.05.09-21.31.17:205][522]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.09-21.31.17:210][522]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.09-21.31.17:210][522]PIE: New page: PIE session: TopDownExampleMap (May 10, 2021, 3:31:17 AM)
+[2021.05.09-21.31.17:210][522]LogPlayLevel: Creating play world package: /Game/AGR_EXAMPLES/Maps/UEDPIE_0_TopDownExampleMap
+[2021.05.09-21.31.17:223][522]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013127s)
+[2021.05.09-21.31.17:224][522]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.05.09-21.31.17:224][522]LogPlayLevel: PIE: World Init took: (0.001080s)
+[2021.05.09-21.31.17:224][522]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AGR_EXAMPLES/Maps/TopDownExampleMap.TopDownExampleMap to /Game/AGR_EXAMPLES/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.014330s)
+[2021.05.09-21.31.17:256][522]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2021.05.09-21.31.17:258][522]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2021.05.09-21.31.17:258][522]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.09-21.31.17:259][522]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.09-21.31.17:259][522]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.09-21.31.17:259][522]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.09-21.31.17:259][522]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.09-21.31.17:259][522]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.09-21.31.17:259][522]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.09-21.31.17:259][522]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.09-21.31.17:259][522]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.09-21.31.17:259][522]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.09-21.31.17:261][522]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.09-21.31.17:261][522]LogAudioMixer: Display: 1: FrontRight
+[2021.05.09-21.31.17:298][522]LogAudioMixer: Display: Using Audio Device Динамики (2- Устройство с поддержкой High Definition Audio)
+[2021.05.09-21.31.17:298][522]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.09-21.31.17:298][522]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.09-21.31.17:298][522]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.09-21.31.17:299][522]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.09-21.31.17:299][522]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.09-21.31.17:299][522]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.09-21.31.17:301][522]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.09-21.31.17:301][522]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.09-21.31.17:301][522]LogInit: FAudioDevice initialized.
+[2021.05.09-21.31.17:301][522]LogAudio: Display: Audio Device (ID: 32) registered with world 'TopDownExampleMap'.
+[2021.05.09-21.31.17:313][522]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2021.05.09-21.31.17:314][522]LogWorld: Bringing World /Game/AGR_EXAMPLES/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2021.05.10-00.31.17
+[2021.05.09-21.31.17:315][522]LogWorld: Bringing up level for play took: 0.001541
+[2021.05.09-21.31.17:315][522]LogOnline: OSS: Creating online subsystem instance for: :Context_161
+[2021.05.09-21.31.17:318][522]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.05.09-21.31.17:318][522]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.05.09-21.31.17:318][522]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.05.09-21.31.17:326][522]LogBlueprintUserMessages: [BP_StandardEnemy_2] 100.0
+[2021.05.09-21.31.17:327][522]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.05.09-21.31.17:327][522]PIE: Server logged in
+[2021.05.09-21.31.17:328][522]PIE: Play in editor total start time 0.119 seconds.
+[2021.05.09-21.31.54:675][990]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.09-21.31.54:675][990]LogWorld: BeginTearingDown for /Game/AGR_EXAMPLES/Maps/UEDPIE_0_TopDownExampleMap
+[2021.05.09-21.31.54:675][990]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.09-21.31.54:676][990]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.09-21.31.54:683][990]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.09-21.31.54:700][990]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.09-21.31.54:730][990]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.09-21.31.54:730][990]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.09-21.31.54:731][990]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.09-21.31.54:742][990]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.09-21.31.54:746][990]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2021.05.09-21.31.54:786][991]LogPlayLevel: Display: Destroying online subsystem :Context_161
+[2021.05.09-21.31.58:180][371]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
