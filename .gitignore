@@ -76,3 +76,6 @@ DerivedDataCache/*
 #Custom ignores
 *.log
 Assets/*
+SampleMap/*
+ParagonProps/*
+Lighting/*
