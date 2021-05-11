@@ -818,3 +818,43 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.05.11-11.46.45:090][979]LogSavePackage: Moving '../../../../../Game Dev Courses/Unreal Engine Game/MainGame/Saved/PauseMenu938123304C2B359A590652BAA991E288.tmp' to '../../../../../Game Dev Courses/Unreal Engine Game/MainGame/Content/Blueprints/UI/PauseMenu.uasset'
 [2021.05.11-11.46.45:102][979]AssetCheck: New page: Asset Save: PauseMenu
 [2021.05.11-11.46.45:102][979]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/UI/PauseMenu.PauseMenu
+[2021.05.11-11.50.33:997][341]AnimBlueprintLog: Warning: SLOTNODE: 'FullBody' in animation instance class AGR_CoreAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2021.05.11-11.50.33:997][341]AnimBlueprintLog: Warning: SLOTNODE: 'FullBody' in animation instance class AGR_CoreAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2021.05.11-11.50.34:026][342]AnimBlueprintLog: Warning: SLOTNODE: 'FullBody' in animation instance class AGR_CoreAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2021.05.11-11.50.34:026][342]AnimBlueprintLog: Warning: SLOTNODE: 'FullBody' in animation instance class AGR_CoreAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2021.05.11-11.50.36:379][550]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.05.11-11.50.36:398][550]LogContentBrowser: Creating deferred item: NewFolder
+[2021.05.11-11.50.41:645][161]LogContentBrowser: Attempting asset rename: NewFolder -> EnemyAI
+[2021.05.11-11.50.41:645][161]LogContentBrowser: End creating deferred item NewFolder
+[2021.05.11-11.50.58:187][ 35]LogContentBrowser: Deferred new asset file creation: NewBehaviorTree
+[2021.05.11-11.50.58:197][ 35]LogContentBrowser: Creating deferred item: NewBehaviorTree
+[2021.05.11-11.51.03:332][644]LogContentBrowser: Attempting asset rename: NewBehaviorTree -> EnemyAI
+[2021.05.11-11.51.03:349][644]LogContentBrowser: End creating deferred item NewBehaviorTree
+[2021.05.11-11.51.07:088][ 62]LogContentBrowser: Deferred new asset file creation: NewBlackboardData
+[2021.05.11-11.51.07:097][ 62]LogContentBrowser: Creating deferred item: NewBlackboardData
+[2021.05.11-11.51.12:697][729]LogContentBrowser: Attempting asset rename: NewBlackboardData -> EnemyBlackboard
+[2021.05.11-11.51.12:698][729]LogContentBrowser: End creating deferred item NewBlackboardData
+[2021.05.11-11.51.15:927][102]LogContentBrowser: Deferred new asset file creation: NewEnvQuery
+[2021.05.11-11.51.15:938][102]LogContentBrowser: Creating deferred item: NewEnvQuery
+[2021.05.11-11.51.23:470][  6]LogContentBrowser: Attempting asset rename: NewEnvQuery -> EnemyEnvQ
+[2021.05.11-11.51.23:471][  6]LogContentBrowser: End creating deferred item NewEnvQuery
+[2021.05.11-11.51.24:634][139]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/Blueprints/EnemyAI/EnemyAI.EnemyAI
+[2021.05.11-11.51.27:351][374]LogSlate: Window 'EnemyAI' being destroyed
+[2021.05.11-11.51.42:264][775]LogAssetEditorSubsystem: Opening Asset editor for BlackboardData /Game/Blueprints/EnemyAI/EnemyBlackboard.EnemyBlackboard
+[2021.05.11-11.51.43:932][964]LogAssetEditorSubsystem: Opening Asset editor for EnvQuery /Game/Blueprints/EnemyAI/EnemyEnvQ.EnemyEnvQ
+[2021.05.11-11.52.26:369][293]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2021.05.11-11.52.26:375][293]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/AGR_EXAMPLES/Maps/TopDownExampleMap' took 0.069
+[2021.05.11-11.52.26:376][293]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/EnemyAI/EnemyBlackboard] ([1] browsable assets)...
+[2021.05.11-11.52.26:376][293]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/EnemyAI/EnemyBlackboard]
+[2021.05.11-11.52.26:377][293]LogSavePackage: Moving '../../../../../Game Dev Courses/Unreal Engine Game/MainGame/Saved/EnemyBlackboard_Auto17F7C25EF499751D03127C383810C1B5E.tmp' to '../../../../../Game Dev Courses/Unreal Engine Game/MainGame/Saved/Autosaves/Game/Blueprints/EnemyAI/EnemyBlackboard_Auto1.uasset'
+[2021.05.11-11.52.26:377][293]LogFileHelpers: Auto-saving content packages took 0.002
+[2021.05.11-12.09.01:628][103]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.05.11-12.09.01:632][103]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2021.05.11-12.09.01:641][103]LogContentBrowser: Creating deferred item: NewBlueprint
+[2021.05.11-12.09.07:396][794]LogContentBrowser: Attempting asset rename: NewBlueprint -> Enemy
+[2021.05.11-12.09.07:416][794]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Blueprints/EnemyAI/Enemy.
+[2021.05.11-12.09.07:417][794]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Blueprints/EnemyAI/Enemy.
+[2021.05.11-12.09.07:417][794]LogContentBrowser: End creating deferred item NewBlueprint
+[2021.05.11-12.09.08:951][971]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/EnemyAI/Enemy.Enemy
+[2021.05.11-12.09.09:989][972]LogRenderer: Reallocating scene render targets to support 1144x1020 Format 10 NumSamples 1 (Frame:1).
+[2021.05.11-12.09.14:935][520]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
