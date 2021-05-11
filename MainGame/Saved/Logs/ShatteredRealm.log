@@ -1347,3 +1347,39 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.05.11-12.15.37:267][210]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
 [2021.05.11-12.15.37:267][210]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
 [2021.05.11-12.16.06:575][559]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2021.05.11-12.19.40:571][269]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.11-12.19.40:571][269]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.11-12.21.11:848][945]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.11-12.21.11:848][945]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.11-12.21.12:490][ 22]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.11-12.21.12:490][ 22]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.11-12.22.04:877][173]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.11-12.22.04:877][173]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.11-12.22.14:373][ 72]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.11-12.22.14:373][ 72]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.11-12.22.14:985][135]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.11-12.22.14:985][135]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.11-12.22.38:824][ 17]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.11-12.22.38:824][ 17]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.11-12.22.52:529][416]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.11-12.22.52:529][416]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.11-12.22.52:928][463]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.11-12.22.52:928][463]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.11-12.24.31:902][403]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.11-12.24.31:902][403]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.11-12.24.34:617][679]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.11-12.24.34:617][679]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.11-12.24.35:043][730]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.11-12.24.35:043][730]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.11-12.24.44:734][832]BlueprintLog: New page: Compile BP_TDController
+[2021.05.11-12.24.44:813][832]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2021.05.11-12.24.45:309][872]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player/BP_TDController" FILE="../../../../ShatteredRealm/MainGame/Content/Blueprints/Player/BP_TDController.uasset" SILENT=true
+[2021.05.11-12.24.45:375][872]LogSavePackage: Moving '../../../../ShatteredRealm/MainGame/Saved/BP_TDController163C187C43296127A57B738DAEA44E8F.tmp' to '../../../../ShatteredRealm/MainGame/Content/Blueprints/Player/BP_TDController.uasset'
+[2021.05.11-12.24.45:391][872]AssetCheck: New page: Asset Save: BP_TDController
+[2021.05.11-12.24.45:391][872]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player/BP_TDController.BP_TDController
+[2021.05.11-12.24.59:029][134]BlueprintLog: New page: Compile BP_TDController
+[2021.05.11-12.24.59:109][134]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2021.05.11-12.24.59:559][167]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player/BP_TDController" FILE="../../../../ShatteredRealm/MainGame/Content/Blueprints/Player/BP_TDController.uasset" SILENT=true
+[2021.05.11-12.24.59:635][167]LogSavePackage: Moving '../../../../ShatteredRealm/MainGame/Saved/BP_TDController663540E342D08483C47F50B9B8AAAA91.tmp' to '../../../../ShatteredRealm/MainGame/Content/Blueprints/Player/BP_TDController.uasset'
+[2021.05.11-12.24.59:657][167]AssetCheck: New page: Asset Save: BP_TDController
+[2021.05.11-12.24.59:657][167]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player/BP_TDController.BP_TDController
