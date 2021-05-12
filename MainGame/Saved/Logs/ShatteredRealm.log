@@ -2155,3 +2155,1442 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.05.12-16.12.41:781][149]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
 [2021.05.12-16.12.41:835][150]LogPlayLevel: Display: Destroying online subsystem :Context_41
 [2021.05.12-16.12.45:850][568]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2021.05.12-16.21.29:384][168]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.12-16.21.29:385][168]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.12-16.21.30:444][275]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.12-16.21.30:451][275]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.12-16.21.30:451][275]PIE: New page: PIE session: TopDownExampleMap (May 12, 2021, 10:21:30 PM)
+[2021.05.12-16.21.30:451][275]LogPlayLevel: Creating play world package: /Game/AGR_EXAMPLES/Maps/UEDPIE_0_TopDownExampleMap
+[2021.05.12-16.21.30:467][275]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015649s)
+[2021.05.12-16.21.30:468][275]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.05.12-16.21.30:469][275]LogPlayLevel: PIE: World Init took: (0.001829s)
+[2021.05.12-16.21.30:469][275]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AGR_EXAMPLES/Maps/TopDownExampleMap.TopDownExampleMap to /Game/AGR_EXAMPLES/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.017654s)
+[2021.05.12-16.21.30:523][275]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2021.05.12-16.21.30:525][275]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2021.05.12-16.21.30:525][275]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.12-16.21.30:525][275]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.12-16.21.30:525][275]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.12-16.21.30:525][275]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.12-16.21.30:525][275]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.12-16.21.30:525][275]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.12-16.21.30:525][275]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.12-16.21.30:525][275]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.12-16.21.30:526][275]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.12-16.21.30:526][275]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.12-16.21.30:530][275]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.12-16.21.30:530][275]LogAudioMixer: Display: 1: FrontRight
+[2021.05.12-16.21.30:582][275]LogAudioMixer: Display: Using Audio Device Динамики (2- Устройство с поддержкой High Definition Audio)
+[2021.05.12-16.21.30:582][275]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.12-16.21.30:582][275]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.12-16.21.30:582][275]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.12-16.21.30:583][275]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.12-16.21.30:583][275]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.12-16.21.30:583][275]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.12-16.21.30:585][275]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.12-16.21.30:585][275]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.12-16.21.30:585][275]LogInit: FAudioDevice initialized.
+[2021.05.12-16.21.30:585][275]LogAudio: Display: Audio Device (ID: 21) registered with world 'TopDownExampleMap'.
+[2021.05.12-16.21.30:600][275]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2021.05.12-16.21.30:602][275]LogWorld: Bringing World /Game/AGR_EXAMPLES/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2021.05.12-19.21.30
+[2021.05.12-16.21.30:603][275]LogWorld: Bringing up level for play took: 0.002340
+[2021.05.12-16.21.30:603][275]LogOnline: OSS: Creating online subsystem instance for: :Context_42
+[2021.05.12-16.21.30:606][275]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.05.12-16.21.30:606][275]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.05.12-16.21.30:606][275]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.05.12-16.21.30:615][275]LogBlueprintUserMessages: [BP_StandardEnemy_2] 100.0
+[2021.05.12-16.21.30:616][275]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.05.12-16.21.30:616][275]PIE: Server logged in
+[2021.05.12-16.21.30:616][275]PIE: Play in editor total start time 0.167 seconds.
+[2021.05.12-16.21.39:234][281]LogBlueprintUserMessages: [BP_StandardEnemy_2] 25.0
+[2021.05.12-16.21.39:234][281]LogBlueprintUserMessages: [BP_StandardEnemy_2] 75.0
+[2021.05.12-16.21.39:786][345]LogBlueprintUserMessages: [BP_StandardEnemy_2] 25.0
+[2021.05.12-16.21.39:786][345]LogBlueprintUserMessages: [BP_StandardEnemy_2] 50.0
+[2021.05.12-16.21.40:360][411]LogBlueprintUserMessages: [BP_StandardEnemy_2] 25.0
+[2021.05.12-16.21.40:360][411]LogBlueprintUserMessages: [BP_StandardEnemy_2] 25.0
+[2021.05.12-16.21.40:826][465]LogBlueprintUserMessages: [BP_StandardEnemy_2] Enemy is dead
+[2021.05.12-16.21.40:826][465]LogBlueprintUserMessages: [BP_StandardEnemy_2] 25.0
+[2021.05.12-16.21.40:826][465]LogBlueprintUserMessages: [BP_StandardEnemy_2] 0.0
+[2021.05.12-16.21.41:828][574]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.12-16.21.41:828][574]LogWorld: BeginTearingDown for /Game/AGR_EXAMPLES/Maps/UEDPIE_0_TopDownExampleMap
+[2021.05.12-16.21.41:829][574]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.12-16.21.41:829][574]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.12-16.21.41:838][574]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.12-16.21.41:859][574]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.12-16.21.41:892][574]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.12-16.21.41:892][574]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.12-16.21.41:893][574]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.12-16.21.41:909][574]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2021.05.12-16.21.41:956][575]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2021.05.12-16.24.51:587][875]BlueprintLog: New page: Compile BP_Projectile
+[2021.05.12-16.24.51:660][875]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2021.05.12-16.24.52:344][940]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/WeaponsAndProjectiles/BP_Projectile" FILE="../../../../ShatteredRealm/MainGame/Content/Blueprints/WeaponsAndProjectiles/BP_Projectile.uasset" SILENT=true
+[2021.05.12-16.24.52:362][940]LogSavePackage: Moving '../../../../ShatteredRealm/MainGame/Saved/BP_Projectile5F2313BE4D2DE126FA7566A4FD8135C5.tmp' to '../../../../ShatteredRealm/MainGame/Content/Blueprints/WeaponsAndProjectiles/BP_Projectile.uasset'
+[2021.05.12-16.24.52:374][940]AssetCheck: New page: Asset Save: BP_Projectile
+[2021.05.12-16.24.52:374][940]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/WeaponsAndProjectiles/BP_Projectile.BP_Projectile
+[2021.05.12-16.25.00:778][911]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.12-16.25.00:778][911]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.12-16.29.53:577][869]LogUObjectHash: Compacting FUObjectHashTables data took   7.70ms
+[2021.05.12-16.29.53:581][869]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/AGR_EXAMPLES/Maps/TopDownExampleMap' took 0.065
+[2021.05.12-16.29.53:581][869]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/WeaponsAndProjectiles/BP_Projectile] ([2] browsable assets)...
+[2021.05.12-16.29.53:619][869]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/WeaponsAndProjectiles/BP_Projectile.BP_Projectile]
+[2021.05.12-16.29.53:670][869]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/WeaponsAndProjectiles/BP_Projectile.BP_Projectile]
+[2021.05.12-16.29.53:670][869]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WeaponsAndProjectiles/BP_Projectile]
+[2021.05.12-16.29.53:692][869]LogSavePackage: Moving '../../../../ShatteredRealm/MainGame/Saved/BP_Projectile_Auto1021DEF5349E39FA96D0AC58F455DA0B5.tmp' to '../../../../ShatteredRealm/MainGame/Saved/Autosaves/Game/Blueprints/WeaponsAndProjectiles/BP_Projectile_Auto1.uasset'
+[2021.05.12-16.29.53:692][869]LogFileHelpers: Auto-saving content packages took 0.111
+[2021.05.12-16.31.33:730][153]BlueprintLog: New page: Compile BP_Projectile
+[2021.05.12-16.31.33:807][153]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2021.05.12-16.31.34:236][193]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/WeaponsAndProjectiles/BP_Projectile" FILE="../../../../ShatteredRealm/MainGame/Content/Blueprints/WeaponsAndProjectiles/BP_Projectile.uasset" SILENT=true
+[2021.05.12-16.31.34:257][193]LogSavePackage: Moving '../../../../ShatteredRealm/MainGame/Saved/BP_Projectile320C43EC4412589EEB97719DC5062D26.tmp' to '../../../../ShatteredRealm/MainGame/Content/Blueprints/WeaponsAndProjectiles/BP_Projectile.uasset'
+[2021.05.12-16.31.34:273][193]AssetCheck: New page: Asset Save: BP_Projectile
+[2021.05.12-16.31.34:273][193]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/WeaponsAndProjectiles/BP_Projectile.BP_Projectile
+[2021.05.12-16.31.35:987][380]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.12-16.31.35:992][380]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.12-16.31.35:992][380]PIE: New page: PIE session: TopDownExampleMap (May 12, 2021, 10:31:35 PM)
+[2021.05.12-16.31.35:992][380]LogPlayLevel: Creating play world package: /Game/AGR_EXAMPLES/Maps/UEDPIE_0_TopDownExampleMap
+[2021.05.12-16.31.36:007][380]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014712s)
+[2021.05.12-16.31.36:008][380]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.05.12-16.31.36:008][380]LogPlayLevel: PIE: World Init took: (0.001543s)
+[2021.05.12-16.31.36:008][380]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AGR_EXAMPLES/Maps/TopDownExampleMap.TopDownExampleMap to /Game/AGR_EXAMPLES/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.016450s)
+[2021.05.12-16.31.36:062][380]LogUObjectHash: Compacting FUObjectHashTables data took   4.40ms
+[2021.05.12-16.31.36:066][380]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2021.05.12-16.31.36:066][380]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.12-16.31.36:066][380]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.12-16.31.36:066][380]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.12-16.31.36:066][380]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.12-16.31.36:066][380]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.12-16.31.36:066][380]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.12-16.31.36:066][380]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.12-16.31.36:066][380]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.12-16.31.36:066][380]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.12-16.31.36:066][380]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.12-16.31.36:069][380]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.12-16.31.36:070][380]LogAudioMixer: Display: 1: FrontRight
+[2021.05.12-16.31.36:113][380]LogAudioMixer: Display: Using Audio Device Динамики (2- Устройство с поддержкой High Definition Audio)
+[2021.05.12-16.31.36:114][380]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.12-16.31.36:114][380]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.12-16.31.36:114][380]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.12-16.31.36:114][380]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.12-16.31.36:114][380]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.12-16.31.36:114][380]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.12-16.31.36:117][380]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.12-16.31.36:117][380]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.12-16.31.36:117][380]LogInit: FAudioDevice initialized.
+[2021.05.12-16.31.36:117][380]LogAudio: Display: Audio Device (ID: 22) registered with world 'TopDownExampleMap'.
+[2021.05.12-16.31.36:132][380]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2021.05.12-16.31.36:133][380]LogWorld: Bringing World /Game/AGR_EXAMPLES/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2021.05.12-19.31.36
+[2021.05.12-16.31.36:134][380]LogWorld: Bringing up level for play took: 0.001559
+[2021.05.12-16.31.36:134][380]LogOnline: OSS: Creating online subsystem instance for: :Context_43
+[2021.05.12-16.31.36:137][380]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.05.12-16.31.36:137][380]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.05.12-16.31.36:137][380]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.05.12-16.31.36:145][380]LogBlueprintUserMessages: [BP_StandardEnemy_2] 100.0
+[2021.05.12-16.31.36:146][380]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.05.12-16.31.36:146][380]PIE: Server logged in
+[2021.05.12-16.31.36:147][380]PIE: Play in editor total start time 0.156 seconds.
+[2021.05.12-16.31.37:551][544]LogBlueprintUserMessages: [BP_StandardEnemy_2] 25.0
+[2021.05.12-16.31.37:551][544]LogBlueprintUserMessages: [BP_StandardEnemy_2] 75.0
+[2021.05.12-16.31.38:244][627]LogBlueprintUserMessages: [BP_StandardEnemy_2] 25.0
+[2021.05.12-16.31.38:244][627]LogBlueprintUserMessages: [BP_StandardEnemy_2] 50.0
+[2021.05.12-16.31.39:318][752]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.12-16.31.39:318][752]LogWorld: BeginTearingDown for /Game/AGR_EXAMPLES/Maps/UEDPIE_0_TopDownExampleMap
+[2021.05.12-16.31.39:318][752]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.12-16.31.39:318][752]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.12-16.31.39:326][752]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.12-16.31.39:346][752]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.12-16.31.39:379][752]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.12-16.31.39:379][752]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.12-16.31.39:380][752]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.12-16.31.39:396][752]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2021.05.12-16.31.39:440][753]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2021.05.12-16.31.48:362][748]BlueprintLog: New page: Compile BP_Projectile
+[2021.05.12-16.31.48:439][748]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2021.05.12-16.31.48:754][775]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/WeaponsAndProjectiles/BP_Projectile" FILE="../../../../ShatteredRealm/MainGame/Content/Blueprints/WeaponsAndProjectiles/BP_Projectile.uasset" SILENT=true
+[2021.05.12-16.31.48:773][775]LogSavePackage: Moving '../../../../ShatteredRealm/MainGame/Saved/BP_Projectile2243794F4F50F4A490B18E97BF9F1ECC.tmp' to '../../../../ShatteredRealm/MainGame/Content/Blueprints/WeaponsAndProjectiles/BP_Projectile.uasset'
+[2021.05.12-16.31.48:790][775]AssetCheck: New page: Asset Save: BP_Projectile
+[2021.05.12-16.31.48:790][775]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/WeaponsAndProjectiles/BP_Projectile.BP_Projectile
+[2021.05.12-16.31.49:770][876]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.12-16.31.49:777][876]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.12-16.31.49:777][876]PIE: New page: PIE session: TopDownExampleMap (May 12, 2021, 10:31:49 PM)
+[2021.05.12-16.31.49:777][876]LogPlayLevel: Creating play world package: /Game/AGR_EXAMPLES/Maps/UEDPIE_0_TopDownExampleMap
+[2021.05.12-16.31.49:792][876]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014719s)
+[2021.05.12-16.31.49:793][876]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.05.12-16.31.49:794][876]LogPlayLevel: PIE: World Init took: (0.001670s)
+[2021.05.12-16.31.49:794][876]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AGR_EXAMPLES/Maps/TopDownExampleMap.TopDownExampleMap to /Game/AGR_EXAMPLES/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.016557s)
+[2021.05.12-16.31.49:835][876]LogUObjectHash: Compacting FUObjectHashTables data took   5.27ms
+[2021.05.12-16.31.49:841][876]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2021.05.12-16.31.49:841][876]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.12-16.31.49:841][876]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.12-16.31.49:841][876]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.12-16.31.49:841][876]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.12-16.31.49:841][876]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.12-16.31.49:841][876]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.12-16.31.49:841][876]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.12-16.31.49:841][876]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.12-16.31.49:842][876]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.12-16.31.49:842][876]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.12-16.31.49:846][876]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.12-16.31.49:846][876]LogAudioMixer: Display: 1: FrontRight
+[2021.05.12-16.31.49:893][876]LogAudioMixer: Display: Using Audio Device Динамики (2- Устройство с поддержкой High Definition Audio)
+[2021.05.12-16.31.49:894][876]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.12-16.31.49:894][876]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.12-16.31.49:894][876]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.12-16.31.49:894][876]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.12-16.31.49:894][876]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.12-16.31.49:894][876]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.12-16.31.49:896][876]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.12-16.31.49:896][876]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.12-16.31.49:896][876]LogInit: FAudioDevice initialized.
+[2021.05.12-16.31.49:896][876]LogAudio: Display: Audio Device (ID: 23) registered with world 'TopDownExampleMap'.
+[2021.05.12-16.31.49:906][876]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2021.05.12-16.31.49:908][876]LogWorld: Bringing World /Game/AGR_EXAMPLES/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2021.05.12-19.31.49
+[2021.05.12-16.31.49:909][876]LogWorld: Bringing up level for play took: 0.001702
+[2021.05.12-16.31.49:909][876]LogOnline: OSS: Creating online subsystem instance for: :Context_44
+[2021.05.12-16.31.49:912][876]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.05.12-16.31.49:912][876]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.05.12-16.31.49:912][876]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.05.12-16.31.49:921][876]LogBlueprintUserMessages: [BP_StandardEnemy_2] 100.0
+[2021.05.12-16.31.49:922][876]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.05.12-16.31.49:922][876]PIE: Server logged in
+[2021.05.12-16.31.49:923][876]PIE: Play in editor total start time 0.147 seconds.
+[2021.05.12-16.31.51:651][ 80]LogBlueprintUserMessages: [BP_StandardEnemy_2] 25.0
+[2021.05.12-16.31.51:651][ 80]LogBlueprintUserMessages: [BP_StandardEnemy_2] 75.0
+[2021.05.12-16.31.52:335][162]LogBlueprintUserMessages: [BP_StandardEnemy_2] 25.0
+[2021.05.12-16.31.52:335][162]LogBlueprintUserMessages: [BP_StandardEnemy_2] 50.0
+[2021.05.12-16.31.56:658][559]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.12-16.31.56:658][559]LogWorld: BeginTearingDown for /Game/AGR_EXAMPLES/Maps/UEDPIE_0_TopDownExampleMap
+[2021.05.12-16.31.56:658][559]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.12-16.31.56:659][559]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.12-16.31.56:666][559]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.12-16.31.56:684][559]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.12-16.31.56:718][559]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.12-16.31.56:718][559]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.12-16.31.56:719][559]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.12-16.31.56:730][559]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.12-16.31.56:735][559]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2021.05.12-16.31.56:775][560]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2021.05.12-16.32.08:721][867]BlueprintLog: New page: Compile BP_Projectile
+[2021.05.12-16.32.08:799][867]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2021.05.12-16.32.09:108][890]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/WeaponsAndProjectiles/BP_Projectile" FILE="../../../../ShatteredRealm/MainGame/Content/Blueprints/WeaponsAndProjectiles/BP_Projectile.uasset" SILENT=true
+[2021.05.12-16.32.09:132][890]LogSavePackage: Moving '../../../../ShatteredRealm/MainGame/Saved/BP_Projectile3CCD647C4478C95AC68AD8A9AE44B4A9.tmp' to '../../../../ShatteredRealm/MainGame/Content/Blueprints/WeaponsAndProjectiles/BP_Projectile.uasset'
+[2021.05.12-16.32.09:151][890]AssetCheck: New page: Asset Save: BP_Projectile
+[2021.05.12-16.32.09:152][890]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/WeaponsAndProjectiles/BP_Projectile.BP_Projectile
+[2021.05.12-16.32.10:064][982]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.12-16.32.10:069][982]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.12-16.32.10:069][982]PIE: New page: PIE session: TopDownExampleMap (May 12, 2021, 10:32:10 PM)
+[2021.05.12-16.32.10:069][982]LogPlayLevel: Creating play world package: /Game/AGR_EXAMPLES/Maps/UEDPIE_0_TopDownExampleMap
+[2021.05.12-16.32.10:083][982]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014074s)
+[2021.05.12-16.32.10:084][982]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.05.12-16.32.10:085][982]LogPlayLevel: PIE: World Init took: (0.001073s)
+[2021.05.12-16.32.10:085][982]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AGR_EXAMPLES/Maps/TopDownExampleMap.TopDownExampleMap to /Game/AGR_EXAMPLES/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.015260s)
+[2021.05.12-16.32.10:124][982]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2021.05.12-16.32.10:131][982]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2021.05.12-16.32.10:131][982]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.12-16.32.10:131][982]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.12-16.32.10:131][982]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.12-16.32.10:131][982]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.12-16.32.10:131][982]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.12-16.32.10:131][982]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.12-16.32.10:131][982]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.12-16.32.10:131][982]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.12-16.32.10:132][982]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.12-16.32.10:132][982]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.12-16.32.10:135][982]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.12-16.32.10:135][982]LogAudioMixer: Display: 1: FrontRight
+[2021.05.12-16.32.10:188][982]LogAudioMixer: Display: Using Audio Device Динамики (2- Устройство с поддержкой High Definition Audio)
+[2021.05.12-16.32.10:189][982]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.12-16.32.10:189][982]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.12-16.32.10:189][982]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.12-16.32.10:189][982]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.12-16.32.10:189][982]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.12-16.32.10:189][982]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.12-16.32.10:191][982]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.12-16.32.10:191][982]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.12-16.32.10:191][982]LogInit: FAudioDevice initialized.
+[2021.05.12-16.32.10:191][982]LogAudio: Display: Audio Device (ID: 24) registered with world 'TopDownExampleMap'.
+[2021.05.12-16.32.10:200][982]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2021.05.12-16.32.10:202][982]LogWorld: Bringing World /Game/AGR_EXAMPLES/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2021.05.12-19.32.10
+[2021.05.12-16.32.10:202][982]LogWorld: Bringing up level for play took: 0.001953
+[2021.05.12-16.32.10:203][982]LogOnline: OSS: Creating online subsystem instance for: :Context_45
+[2021.05.12-16.32.10:205][982]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.05.12-16.32.10:205][982]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.05.12-16.32.10:205][982]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.05.12-16.32.10:216][982]LogBlueprintUserMessages: [BP_StandardEnemy_2] 100.0
+[2021.05.12-16.32.10:216][982]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.05.12-16.32.10:216][982]PIE: Server logged in
+[2021.05.12-16.32.10:218][982]PIE: Play in editor total start time 0.149 seconds.
+[2021.05.12-16.32.11:379][118]LogBlueprintUserMessages: [BP_StandardEnemy_2] 25.0
+[2021.05.12-16.32.11:379][118]LogBlueprintUserMessages: [BP_StandardEnemy_2] 75.0
+[2021.05.12-16.32.11:938][185]LogBlueprintUserMessages: [BP_StandardEnemy_2] 25.0
+[2021.05.12-16.32.11:938][185]LogBlueprintUserMessages: [BP_StandardEnemy_2] 50.0
+[2021.05.12-16.32.12:455][247]LogBlueprintUserMessages: [BP_StandardEnemy_2] 25.0
+[2021.05.12-16.32.12:455][247]LogBlueprintUserMessages: [BP_StandardEnemy_2] 25.0
+[2021.05.12-16.32.13:388][354]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.12-16.32.13:388][354]LogWorld: BeginTearingDown for /Game/AGR_EXAMPLES/Maps/UEDPIE_0_TopDownExampleMap
+[2021.05.12-16.32.13:388][354]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.12-16.32.13:389][354]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.12-16.32.13:395][354]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.12-16.32.13:413][354]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.12-16.32.13:449][354]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.12-16.32.13:449][354]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.12-16.32.13:450][354]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.12-16.32.13:462][354]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.12-16.32.13:468][354]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2021.05.12-16.32.13:514][355]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2021.05.12-16.32.29:714][199]BlueprintLog: New page: Compile BP_Projectile
+[2021.05.12-16.32.29:789][199]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2021.05.12-16.32.30:091][224]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/WeaponsAndProjectiles/BP_Projectile" FILE="../../../../ShatteredRealm/MainGame/Content/Blueprints/WeaponsAndProjectiles/BP_Projectile.uasset" SILENT=true
+[2021.05.12-16.32.30:140][224]LogSavePackage: Moving '../../../../ShatteredRealm/MainGame/Saved/BP_Projectile6845F732481268721D80E7AD98E989EE.tmp' to '../../../../ShatteredRealm/MainGame/Content/Blueprints/WeaponsAndProjectiles/BP_Projectile.uasset'
+[2021.05.12-16.32.30:156][224]AssetCheck: New page: Asset Save: BP_Projectile
+[2021.05.12-16.32.30:156][224]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/WeaponsAndProjectiles/BP_Projectile.BP_Projectile
+[2021.05.12-16.32.31:237][337]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.12-16.32.31:242][337]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.12-16.32.31:242][337]PIE: New page: PIE session: TopDownExampleMap (May 12, 2021, 10:32:31 PM)
+[2021.05.12-16.32.31:242][337]LogPlayLevel: Creating play world package: /Game/AGR_EXAMPLES/Maps/UEDPIE_0_TopDownExampleMap
+[2021.05.12-16.32.31:257][337]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014375s)
+[2021.05.12-16.32.31:258][337]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.05.12-16.32.31:259][337]LogPlayLevel: PIE: World Init took: (0.001729s)
+[2021.05.12-16.32.31:259][337]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AGR_EXAMPLES/Maps/TopDownExampleMap.TopDownExampleMap to /Game/AGR_EXAMPLES/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.016292s)
+[2021.05.12-16.32.31:306][337]LogUObjectHash: Compacting FUObjectHashTables data took   5.07ms
+[2021.05.12-16.32.31:310][337]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2021.05.12-16.32.31:310][337]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.12-16.32.31:310][337]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.12-16.32.31:310][337]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.12-16.32.31:310][337]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.12-16.32.31:310][337]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.12-16.32.31:310][337]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.12-16.32.31:310][337]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.12-16.32.31:310][337]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.12-16.32.31:311][337]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.12-16.32.31:311][337]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.12-16.32.31:314][337]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.12-16.32.31:314][337]LogAudioMixer: Display: 1: FrontRight
+[2021.05.12-16.32.31:362][337]LogAudioMixer: Display: Using Audio Device Динамики (2- Устройство с поддержкой High Definition Audio)
+[2021.05.12-16.32.31:362][337]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.12-16.32.31:362][337]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.12-16.32.31:362][337]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.12-16.32.31:362][337]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.12-16.32.31:362][337]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.12-16.32.31:362][337]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.12-16.32.31:365][337]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.12-16.32.31:365][337]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.12-16.32.31:365][337]LogInit: FAudioDevice initialized.
+[2021.05.12-16.32.31:365][337]LogAudio: Display: Audio Device (ID: 25) registered with world 'TopDownExampleMap'.
+[2021.05.12-16.32.31:376][337]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2021.05.12-16.32.31:377][337]LogWorld: Bringing World /Game/AGR_EXAMPLES/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2021.05.12-19.32.31
+[2021.05.12-16.32.31:378][337]LogWorld: Bringing up level for play took: 0.001542
+[2021.05.12-16.32.31:378][337]LogOnline: OSS: Creating online subsystem instance for: :Context_46
+[2021.05.12-16.32.31:381][337]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.05.12-16.32.31:381][337]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.05.12-16.32.31:381][337]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.05.12-16.32.31:389][337]LogBlueprintUserMessages: [BP_StandardEnemy_2] 100.0
+[2021.05.12-16.32.31:390][337]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.05.12-16.32.31:390][337]PIE: Server logged in
+[2021.05.12-16.32.31:391][337]PIE: Play in editor total start time 0.149 seconds.
+[2021.05.12-16.32.34:526][710]LogBlueprintUserMessages: [BP_StandardEnemy_2] 25.0
+[2021.05.12-16.32.34:526][710]LogBlueprintUserMessages: [BP_StandardEnemy_2] 75.0
+[2021.05.12-16.32.34:868][751]LogBlueprintUserMessages: [BP_StandardEnemy_2] 25.0
+[2021.05.12-16.32.34:868][751]LogBlueprintUserMessages: [BP_StandardEnemy_2] 50.0
+[2021.05.12-16.32.35:738][850]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.12-16.32.35:738][850]LogWorld: BeginTearingDown for /Game/AGR_EXAMPLES/Maps/UEDPIE_0_TopDownExampleMap
+[2021.05.12-16.32.35:738][850]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.12-16.32.35:739][850]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.12-16.32.35:751][850]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.12-16.32.35:770][850]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.12-16.32.35:803][850]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.12-16.32.35:803][850]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.12-16.32.35:804][850]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.12-16.32.35:822][850]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2021.05.12-16.32.35:865][851]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2021.05.12-16.32.44:380][775]BlueprintLog: New page: Compile BP_Projectile
+[2021.05.12-16.32.44:454][775]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2021.05.12-16.32.44:854][812]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/WeaponsAndProjectiles/BP_Projectile" FILE="../../../../ShatteredRealm/MainGame/Content/Blueprints/WeaponsAndProjectiles/BP_Projectile.uasset" SILENT=true
+[2021.05.12-16.32.44:871][812]LogSavePackage: Moving '../../../../ShatteredRealm/MainGame/Saved/BP_ProjectileA480EA7D4BC74EC485788193865629B8.tmp' to '../../../../ShatteredRealm/MainGame/Content/Blueprints/WeaponsAndProjectiles/BP_Projectile.uasset'
+[2021.05.12-16.32.44:886][812]AssetCheck: New page: Asset Save: BP_Projectile
+[2021.05.12-16.32.44:886][812]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/WeaponsAndProjectiles/BP_Projectile.BP_Projectile
+[2021.05.12-16.32.46:047][938]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.12-16.32.46:052][938]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.12-16.32.46:052][938]PIE: New page: PIE session: TopDownExampleMap (May 12, 2021, 10:32:46 PM)
+[2021.05.12-16.32.46:052][938]LogPlayLevel: Creating play world package: /Game/AGR_EXAMPLES/Maps/UEDPIE_0_TopDownExampleMap
+[2021.05.12-16.32.46:066][938]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014264s)
+[2021.05.12-16.32.46:067][938]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.05.12-16.32.46:068][938]LogPlayLevel: PIE: World Init took: (0.001543s)
+[2021.05.12-16.32.46:068][938]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AGR_EXAMPLES/Maps/TopDownExampleMap.TopDownExampleMap to /Game/AGR_EXAMPLES/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.015953s)
+[2021.05.12-16.32.46:109][938]LogUObjectHash: Compacting FUObjectHashTables data took   5.25ms
+[2021.05.12-16.32.46:115][938]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2021.05.12-16.32.46:115][938]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.12-16.32.46:115][938]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.12-16.32.46:115][938]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.12-16.32.46:115][938]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.12-16.32.46:115][938]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.12-16.32.46:115][938]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.12-16.32.46:115][938]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.12-16.32.46:115][938]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.12-16.32.46:116][938]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.12-16.32.46:116][938]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.12-16.32.46:120][938]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.12-16.32.46:120][938]LogAudioMixer: Display: 1: FrontRight
+[2021.05.12-16.32.46:164][938]LogAudioMixer: Display: Using Audio Device Динамики (2- Устройство с поддержкой High Definition Audio)
+[2021.05.12-16.32.46:164][938]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.12-16.32.46:165][938]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.12-16.32.46:165][938]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.12-16.32.46:165][938]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.12-16.32.46:165][938]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.12-16.32.46:165][938]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.12-16.32.46:167][938]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.12-16.32.46:167][938]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.12-16.32.46:167][938]LogInit: FAudioDevice initialized.
+[2021.05.12-16.32.46:167][938]LogAudio: Display: Audio Device (ID: 26) registered with world 'TopDownExampleMap'.
+[2021.05.12-16.32.46:179][938]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2021.05.12-16.32.46:181][938]LogWorld: Bringing World /Game/AGR_EXAMPLES/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2021.05.12-19.32.46
+[2021.05.12-16.32.46:181][938]LogWorld: Bringing up level for play took: 0.001608
+[2021.05.12-16.32.46:181][938]LogOnline: OSS: Creating online subsystem instance for: :Context_47
+[2021.05.12-16.32.46:184][938]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.05.12-16.32.46:184][938]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.05.12-16.32.46:184][938]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.05.12-16.32.46:192][938]LogBlueprintUserMessages: [BP_StandardEnemy_2] 100.0
+[2021.05.12-16.32.46:193][938]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.05.12-16.32.46:193][938]PIE: Server logged in
+[2021.05.12-16.32.46:194][938]PIE: Play in editor total start time 0.143 seconds.
+[2021.05.12-16.32.49:303][308]LogBlueprintUserMessages: [BP_StandardEnemy_2] 25.0
+[2021.05.12-16.32.49:303][308]LogBlueprintUserMessages: [BP_StandardEnemy_2] 75.0
+[2021.05.12-16.32.49:671][352]LogBlueprintUserMessages: [BP_StandardEnemy_2] 25.0
+[2021.05.12-16.32.49:671][352]LogBlueprintUserMessages: [BP_StandardEnemy_2] 50.0
+[2021.05.12-16.32.50:072][400]LogBlueprintUserMessages: [BP_StandardEnemy_2] 25.0
+[2021.05.12-16.32.50:072][400]LogBlueprintUserMessages: [BP_StandardEnemy_2] 25.0
+[2021.05.12-16.32.51:158][525]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.12-16.32.51:158][525]LogWorld: BeginTearingDown for /Game/AGR_EXAMPLES/Maps/UEDPIE_0_TopDownExampleMap
+[2021.05.12-16.32.51:158][525]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.12-16.32.51:159][525]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.12-16.32.51:167][525]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.12-16.32.51:187][525]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.12-16.32.51:221][525]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.12-16.32.51:222][525]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.12-16.32.51:222][525]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.12-16.32.51:233][525]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.12-16.32.51:238][525]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2021.05.12-16.32.51:281][526]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2021.05.12-16.33.01:415][628]BlueprintLog: New page: Compile BP_Projectile
+[2021.05.12-16.33.01:490][628]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2021.05.12-16.33.01:718][642]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/WeaponsAndProjectiles/BP_Projectile" FILE="../../../../ShatteredRealm/MainGame/Content/Blueprints/WeaponsAndProjectiles/BP_Projectile.uasset" SILENT=true
+[2021.05.12-16.33.01:734][642]LogSavePackage: Moving '../../../../ShatteredRealm/MainGame/Saved/BP_Projectile5D72863A4BEDF92FFE7960B180424CDC.tmp' to '../../../../ShatteredRealm/MainGame/Content/Blueprints/WeaponsAndProjectiles/BP_Projectile.uasset'
+[2021.05.12-16.33.01:751][642]AssetCheck: New page: Asset Save: BP_Projectile
+[2021.05.12-16.33.01:751][642]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/WeaponsAndProjectiles/BP_Projectile.BP_Projectile
+[2021.05.12-16.33.02:660][732]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.12-16.33.02:665][732]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.12-16.33.02:665][732]PIE: New page: PIE session: TopDownExampleMap (May 12, 2021, 10:33:02 PM)
+[2021.05.12-16.33.02:665][732]LogPlayLevel: Creating play world package: /Game/AGR_EXAMPLES/Maps/UEDPIE_0_TopDownExampleMap
+[2021.05.12-16.33.02:678][732]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013645s)
+[2021.05.12-16.33.02:679][732]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.05.12-16.33.02:680][732]LogPlayLevel: PIE: World Init took: (0.001148s)
+[2021.05.12-16.33.02:680][732]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AGR_EXAMPLES/Maps/TopDownExampleMap.TopDownExampleMap to /Game/AGR_EXAMPLES/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.014955s)
+[2021.05.12-16.33.02:720][732]LogUObjectHash: Compacting FUObjectHashTables data took   4.93ms
+[2021.05.12-16.33.02:726][732]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2021.05.12-16.33.02:726][732]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.12-16.33.02:726][732]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.12-16.33.02:726][732]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.12-16.33.02:726][732]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.12-16.33.02:726][732]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.12-16.33.02:726][732]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.12-16.33.02:726][732]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.12-16.33.02:726][732]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.12-16.33.02:726][732]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.12-16.33.02:726][732]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.12-16.33.02:730][732]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.12-16.33.02:730][732]LogAudioMixer: Display: 1: FrontRight
+[2021.05.12-16.33.02:771][732]LogAudioMixer: Display: Using Audio Device Динамики (2- Устройство с поддержкой High Definition Audio)
+[2021.05.12-16.33.02:771][732]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.12-16.33.02:771][732]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.12-16.33.02:771][732]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.12-16.33.02:771][732]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.12-16.33.02:771][732]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.12-16.33.02:771][732]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.12-16.33.02:774][732]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.12-16.33.02:774][732]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.12-16.33.02:774][732]LogInit: FAudioDevice initialized.
+[2021.05.12-16.33.02:774][732]LogAudio: Display: Audio Device (ID: 27) registered with world 'TopDownExampleMap'.
+[2021.05.12-16.33.02:782][732]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2021.05.12-16.33.02:783][732]LogWorld: Bringing World /Game/AGR_EXAMPLES/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2021.05.12-19.33.02
+[2021.05.12-16.33.02:784][732]LogWorld: Bringing up level for play took: 0.001495
+[2021.05.12-16.33.02:784][732]LogOnline: OSS: Creating online subsystem instance for: :Context_48
+[2021.05.12-16.33.02:787][732]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.05.12-16.33.02:787][732]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.05.12-16.33.02:787][732]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.05.12-16.33.02:796][732]LogBlueprintUserMessages: [BP_StandardEnemy_2] 100.0
+[2021.05.12-16.33.02:796][732]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.05.12-16.33.02:796][732]PIE: Server logged in
+[2021.05.12-16.33.02:797][732]PIE: Play in editor total start time 0.133 seconds.
+[2021.05.12-16.33.14:483][467]LogBlueprintUserMessages: [BP_StandardEnemy_2] 25.0
+[2021.05.12-16.33.14:483][467]LogBlueprintUserMessages: [BP_StandardEnemy_2] 75.0
+[2021.05.12-16.33.15:661][607]LogBlueprintUserMessages: [BP_StandardEnemy_2] 25.0
+[2021.05.12-16.33.15:661][607]LogBlueprintUserMessages: [BP_StandardEnemy_2] 50.0
+[2021.05.12-16.33.16:165][667]LogBlueprintUserMessages: [BP_StandardEnemy_2] 25.0
+[2021.05.12-16.33.16:165][667]LogBlueprintUserMessages: [BP_StandardEnemy_2] 25.0
+[2021.05.12-16.33.16:717][733]LogBlueprintUserMessages: [BP_StandardEnemy_2] Enemy is dead
+[2021.05.12-16.33.16:717][733]LogBlueprintUserMessages: [BP_StandardEnemy_2] 25.0
+[2021.05.12-16.33.16:717][733]LogBlueprintUserMessages: [BP_StandardEnemy_2] 0.0
+[2021.05.12-16.33.18:558][950]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.12-16.33.18:558][950]LogWorld: BeginTearingDown for /Game/AGR_EXAMPLES/Maps/UEDPIE_0_TopDownExampleMap
+[2021.05.12-16.33.18:558][950]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.12-16.33.18:558][950]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.12-16.33.18:569][950]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.12-16.33.18:588][950]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.12-16.33.18:622][950]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.12-16.33.18:622][950]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.12-16.33.18:623][950]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.12-16.33.18:635][950]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.12-16.33.18:639][950]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2021.05.12-16.33.18:680][951]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2021.05.12-16.37.16:855][298]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.12-16.37.16:861][298]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.12-16.37.16:861][298]PIE: New page: PIE session: TopDownExampleMap (May 12, 2021, 10:37:16 PM)
+[2021.05.12-16.37.16:861][298]LogPlayLevel: Creating play world package: /Game/AGR_EXAMPLES/Maps/UEDPIE_0_TopDownExampleMap
+[2021.05.12-16.37.16:873][298]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012103s)
+[2021.05.12-16.37.16:874][298]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.05.12-16.37.16:874][298]LogPlayLevel: PIE: World Init took: (0.001052s)
+[2021.05.12-16.37.16:874][298]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AGR_EXAMPLES/Maps/TopDownExampleMap.TopDownExampleMap to /Game/AGR_EXAMPLES/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.013277s)
+[2021.05.12-16.37.16:914][298]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2021.05.12-16.37.16:925][298]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2021.05.12-16.37.16:925][298]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.12-16.37.16:925][298]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.12-16.37.16:925][298]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.12-16.37.16:925][298]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.12-16.37.16:925][298]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.12-16.37.16:925][298]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.12-16.37.16:925][298]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.12-16.37.16:925][298]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.12-16.37.16:925][298]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.12-16.37.16:925][298]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.12-16.37.16:929][298]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.12-16.37.16:929][298]LogAudioMixer: Display: 1: FrontRight
+[2021.05.12-16.37.16:973][298]LogAudioMixer: Display: Using Audio Device Динамики (2- Устройство с поддержкой High Definition Audio)
+[2021.05.12-16.37.16:973][298]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.12-16.37.16:974][298]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.12-16.37.16:974][298]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.12-16.37.16:974][298]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.12-16.37.16:974][298]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.12-16.37.16:974][298]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.12-16.37.16:977][298]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.12-16.37.16:977][298]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.12-16.37.16:977][298]LogInit: FAudioDevice initialized.
+[2021.05.12-16.37.16:977][298]LogAudio: Display: Audio Device (ID: 28) registered with world 'TopDownExampleMap'.
+[2021.05.12-16.37.16:990][298]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2021.05.12-16.37.16:992][298]LogWorld: Bringing World /Game/AGR_EXAMPLES/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2021.05.12-19.37.16
+[2021.05.12-16.37.16:992][298]LogWorld: Bringing up level for play took: 0.001596
+[2021.05.12-16.37.16:993][298]LogOnline: OSS: Creating online subsystem instance for: :Context_49
+[2021.05.12-16.37.16:995][298]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.05.12-16.37.16:995][298]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.05.12-16.37.16:995][298]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.05.12-16.37.17:004][298]LogBlueprintUserMessages: [BP_StandardEnemy_2] 100.0
+[2021.05.12-16.37.17:005][298]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.05.12-16.37.17:005][298]PIE: Server logged in
+[2021.05.12-16.37.17:005][298]PIE: Play in editor total start time 0.146 seconds.
+[2021.05.12-16.37.17:985][407]LogBlueprintUserMessages: [BP_StandardEnemy_2] 25.0
+[2021.05.12-16.37.17:985][407]LogBlueprintUserMessages: [BP_StandardEnemy_2] 75.0
+[2021.05.12-16.37.19:084][537]LogBlueprintUserMessages: [BP_StandardEnemy_2] 25.0
+[2021.05.12-16.37.19:084][537]LogBlueprintUserMessages: [BP_StandardEnemy_2] 50.0
+[2021.05.12-16.37.19:518][589]LogBlueprintUserMessages: [BP_StandardEnemy_2] 25.0
+[2021.05.12-16.37.19:518][589]LogBlueprintUserMessages: [BP_StandardEnemy_2] 25.0
+[2021.05.12-16.37.20:417][689]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.12-16.37.20:417][689]LogWorld: BeginTearingDown for /Game/AGR_EXAMPLES/Maps/UEDPIE_0_TopDownExampleMap
+[2021.05.12-16.37.20:417][689]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.12-16.37.20:418][689]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.12-16.37.20:428][689]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.12-16.37.20:446][689]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.12-16.37.20:480][689]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.12-16.37.20:481][689]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.12-16.37.20:482][689]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.12-16.37.20:499][689]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2021.05.12-16.37.20:542][690]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2021.05.12-16.37.31:428][889]BlueprintLog: New page: Compile BP_Projectile
+[2021.05.12-16.37.31:492][889]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2021.05.12-16.37.32:026][941]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/WeaponsAndProjectiles/BP_Projectile" FILE="../../../../ShatteredRealm/MainGame/Content/Blueprints/WeaponsAndProjectiles/BP_Projectile.uasset" SILENT=true
+[2021.05.12-16.37.32:044][941]LogSavePackage: Moving '../../../../ShatteredRealm/MainGame/Saved/BP_Projectile6A652AD1457A8EDFFFA606BFEF0D3727.tmp' to '../../../../ShatteredRealm/MainGame/Content/Blueprints/WeaponsAndProjectiles/BP_Projectile.uasset'
+[2021.05.12-16.37.32:067][941]AssetCheck: New page: Asset Save: BP_Projectile
+[2021.05.12-16.37.32:067][941]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/WeaponsAndProjectiles/BP_Projectile.BP_Projectile
+[2021.05.12-16.37.33:104][ 49]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.12-16.37.33:109][ 49]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.12-16.37.33:109][ 49]PIE: New page: PIE session: TopDownExampleMap (May 12, 2021, 10:37:33 PM)
+[2021.05.12-16.37.33:109][ 49]LogPlayLevel: Creating play world package: /Game/AGR_EXAMPLES/Maps/UEDPIE_0_TopDownExampleMap
+[2021.05.12-16.37.33:122][ 49]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012961s)
+[2021.05.12-16.37.33:123][ 49]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.05.12-16.37.33:123][ 49]LogPlayLevel: PIE: World Init took: (0.001186s)
+[2021.05.12-16.37.33:123][ 49]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AGR_EXAMPLES/Maps/TopDownExampleMap.TopDownExampleMap to /Game/AGR_EXAMPLES/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.014290s)
+[2021.05.12-16.37.33:174][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2021.05.12-16.37.33:180][ 49]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2021.05.12-16.37.33:180][ 49]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.12-16.37.33:180][ 49]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.12-16.37.33:180][ 49]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.12-16.37.33:180][ 49]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.12-16.37.33:180][ 49]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.12-16.37.33:180][ 49]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.12-16.37.33:180][ 49]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.12-16.37.33:180][ 49]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.12-16.37.33:180][ 49]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.12-16.37.33:180][ 49]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.12-16.37.33:184][ 49]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.12-16.37.33:184][ 49]LogAudioMixer: Display: 1: FrontRight
+[2021.05.12-16.37.33:228][ 49]LogAudioMixer: Display: Using Audio Device Динамики (2- Устройство с поддержкой High Definition Audio)
+[2021.05.12-16.37.33:228][ 49]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.12-16.37.33:229][ 49]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.12-16.37.33:229][ 49]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.12-16.37.33:229][ 49]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.12-16.37.33:229][ 49]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.12-16.37.33:229][ 49]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.12-16.37.33:232][ 49]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.12-16.37.33:232][ 49]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.12-16.37.33:232][ 49]LogInit: FAudioDevice initialized.
+[2021.05.12-16.37.33:232][ 49]LogAudio: Display: Audio Device (ID: 29) registered with world 'TopDownExampleMap'.
+[2021.05.12-16.37.33:247][ 49]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2021.05.12-16.37.33:249][ 49]LogWorld: Bringing World /Game/AGR_EXAMPLES/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2021.05.12-19.37.33
+[2021.05.12-16.37.33:249][ 49]LogWorld: Bringing up level for play took: 0.001548
+[2021.05.12-16.37.33:249][ 49]LogOnline: OSS: Creating online subsystem instance for: :Context_50
+[2021.05.12-16.37.33:252][ 49]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.05.12-16.37.33:252][ 49]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.05.12-16.37.33:252][ 49]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.05.12-16.37.33:261][ 49]LogBlueprintUserMessages: [BP_StandardEnemy_2] 100.0
+[2021.05.12-16.37.33:261][ 49]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.05.12-16.37.33:261][ 49]PIE: Server logged in
+[2021.05.12-16.37.33:262][ 49]PIE: Play in editor total start time 0.154 seconds.
+[2021.05.12-16.37.35:044][257]LogBlueprintUserMessages: [BP_StandardEnemy_2] 25.0
+[2021.05.12-16.37.35:044][257]LogBlueprintUserMessages: [BP_StandardEnemy_2] 75.0
+[2021.05.12-16.37.35:586][322]LogBlueprintUserMessages: [BP_StandardEnemy_2] 25.0
+[2021.05.12-16.37.35:586][322]LogBlueprintUserMessages: [BP_StandardEnemy_2] 50.0
+[2021.05.12-16.37.36:471][428]LogBlueprintUserMessages: [BP_StandardEnemy_2] 25.0
+[2021.05.12-16.37.36:471][428]LogBlueprintUserMessages: [BP_StandardEnemy_2] 25.0
+[2021.05.12-16.37.36:863][475]LogBlueprintUserMessages: [BP_StandardEnemy_2] Enemy is dead
+[2021.05.12-16.37.36:863][475]LogBlueprintUserMessages: [BP_StandardEnemy_2] 25.0
+[2021.05.12-16.37.36:863][475]LogBlueprintUserMessages: [BP_StandardEnemy_2] 0.0
+[2021.05.12-16.37.38:227][635]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.12-16.37.38:228][635]LogWorld: BeginTearingDown for /Game/AGR_EXAMPLES/Maps/UEDPIE_0_TopDownExampleMap
+[2021.05.12-16.37.38:228][635]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.12-16.37.38:228][635]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.12-16.37.38:235][635]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.12-16.37.38:255][635]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.12-16.37.38:289][635]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.12-16.37.38:289][635]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.12-16.37.38:290][635]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.12-16.37.38:306][635]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2021.05.12-16.37.38:349][636]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2021.05.12-16.37.43:862][243]BlueprintLog: New page: Compile BP_Projectile
+[2021.05.12-16.37.43:930][243]LogUObjectHash: Compacting FUObjectHashTables data took   4.62ms
+[2021.05.12-16.37.44:316][275]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/WeaponsAndProjectiles/BP_Projectile" FILE="../../../../ShatteredRealm/MainGame/Content/Blueprints/WeaponsAndProjectiles/BP_Projectile.uasset" SILENT=true
+[2021.05.12-16.37.44:336][275]LogSavePackage: Moving '../../../../ShatteredRealm/MainGame/Saved/BP_Projectile4B4B7E2B4C2BE5725D29F7AED49D22AF.tmp' to '../../../../ShatteredRealm/MainGame/Content/Blueprints/WeaponsAndProjectiles/BP_Projectile.uasset'
+[2021.05.12-16.37.44:354][275]AssetCheck: New page: Asset Save: BP_Projectile
+[2021.05.12-16.37.44:354][275]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/WeaponsAndProjectiles/BP_Projectile.BP_Projectile
+[2021.05.12-16.37.49:888][900]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/WeaponsAndProjectiles/BP_Projectile" FILE="../../../../ShatteredRealm/MainGame/Content/Blueprints/WeaponsAndProjectiles/BP_Projectile.uasset" SILENT=true
+[2021.05.12-16.37.49:901][900]LogSavePackage: Moving '../../../../ShatteredRealm/MainGame/Saved/BP_Projectile6D9CC881461AE92119F170A19BB14518.tmp' to '../../../../ShatteredRealm/MainGame/Content/Blueprints/WeaponsAndProjectiles/BP_Projectile.uasset'
+[2021.05.12-16.37.49:916][900]AssetCheck: New page: Asset Save: BP_Projectile
+[2021.05.12-16.37.49:916][900]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/WeaponsAndProjectiles/BP_Projectile.BP_Projectile
+[2021.05.12-16.38.06:554][531]LogAudio: Display: Cached duration for Sound Cue SoundCue /Game/Assets/ParagonRevenant/Audio/Cues/Revenant_Effort_Ability_Primary.Revenant_Effort_Ability_Primary was zero and has changed. Consider manually Re-saving the asset
+[2021.05.12-16.38.06:784][540]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.12-16.38.28:138][906]LogAudio: Display: Cached duration for Sound Cue SoundCue /Game/Assets/ParagonRevenant/Audio/Cues/Revenant_Ability_Ultimate_Enemy.Revenant_Ability_Ultimate_Enemy was zero and has changed. Consider manually Re-saving the asset
+[2021.05.12-16.38.31:230][203]LogAudio: Display: Cached duration for Sound Cue SoundCue /Game/Assets/ParagonRevenant/Audio/Cues/Revenant_Emote_020.Revenant_Emote_020 was zero and has changed. Consider manually Re-saving the asset
+[2021.05.12-16.38.51:891][165]LogAudio: Display: Cached duration for Sound Cue SoundCue /Game/Assets/ParagonRevenant/Audio/Cues/Revenant_Lore_Emeritus_080.Revenant_Lore_Emeritus_080 was zero and has changed. Consider manually Re-saving the asset
+[2021.05.12-16.38.53:225][286]LogAudio: Display: Cached duration for Sound Cue SoundCue /Game/Assets/ParagonRevenant/Audio/Cues/Revenant_Lore_Emeritus_030.Revenant_Lore_Emeritus_030 was zero and has changed. Consider manually Re-saving the asset
+[2021.05.12-16.38.54:232][381]LogAudio: Display: Cached duration for Sound Cue SoundCue /Game/Assets/ParagonRevenant/Audio/Cues/Revenant_Lore_Riktor_100.Revenant_Lore_Riktor_100 was zero and has changed. Consider manually Re-saving the asset
+[2021.05.12-16.38.57:606][731]LogAudio: Display: Cached duration for Sound Cue SoundCue /Game/Assets/ParagonRevenant/Audio/Cues/Revenant_Kill_Revenge.Revenant_Kill_Revenge was zero and has changed. Consider manually Re-saving the asset
+[2021.05.12-16.39.00:764][ 44]LogAudio: Display: Cached duration for Sound Cue SoundCue /Game/Assets/ParagonRevenant/Audio/Cues/Revenant_Effort_Swing.Revenant_Effort_Swing was zero and has changed. Consider manually Re-saving the asset
+[2021.05.12-16.39.10:555][ 48]LogAudio: Display: Cached duration for Sound Cue SoundCue /Game/Assets/ParagonRevenant/Audio/Cues/Revenant_Ability_Q_Engage.Revenant_Ability_Q_Engage was zero and has changed. Consider manually Re-saving the asset
+[2021.05.12-16.39.11:725][164]LogAudio: Display: Cached duration for Sound Cue SoundCue /Game/Assets/ParagonRevenant/Audio/Cues/Revenant_Ability_RMB_Engage.Revenant_Ability_RMB_Engage was zero and has changed. Consider manually Re-saving the asset
+[2021.05.12-16.39.15:428][539]LogAudio: Display: Cached duration for Sound Cue SoundCue /Game/Assets/ParagonRevenant/Audio/Cues/Revenant_Ability_Ultimate_Ally.Revenant_Ability_Ultimate_Ally was zero and has changed. Consider manually Re-saving the asset
+[2021.05.12-16.39.17:495][749]LogAudio: Display: Cached duration for Sound Cue SoundCue /Game/Assets/ParagonRevenant/Audio/Cues/Revenant_Ability_Ultimate_Ready.Revenant_Ability_Ultimate_Ready was zero and has changed. Consider manually Re-saving the asset
+[2021.05.12-16.43.35:819][ 43]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.12-16.43.35:819][ 43]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.12-16.49.20:399][756]LogSlate: Window 'Pick Skeleton' being destroyed
+[2021.05.12-16.49.20:435][756]LogContentBrowser: Deferred new asset file creation: NewBlendSpace
+[2021.05.12-16.49.20:453][756]LogContentBrowser: Creating deferred item: NewBlendSpace
+[2021.05.12-16.49.26:136][259]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.12-16.49.26:136][259]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.12-16.49.35:581][124]LogContentBrowser: Attempting asset rename: NewBlendSpace -> BP_StandardEnemyBlend
+[2021.05.12-16.49.35:666][124]LogContentBrowser: End creating deferred item NewBlendSpace
+[2021.05.12-16.49.36:153][155]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/Blueprints/AI/BP_StandardEnemyBlend.BP_StandardEnemyBlend
+[2021.05.12-16.49.36:241][155]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2021.05.12-16.49.36:246][155]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.05.12-16.49.36:251][155]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2021.05.12-16.49.37:174][155]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.05.12-17.01.34:295][568]LogSlate: Window 'BP_StandardEnemyBlend' being destroyed
+[2021.05.12-17.04.55:691][978]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/Blueprints/Player/Revenant_Blend_BP.Revenant_Blend_BP
+[2021.05.12-17.04.55:725][978]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.05.12-17.04.56:036][978]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2021.05.12-17.04.56:051][978]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.05.12-17.05.11:233][542]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/BP_StandardEnemyBlend" FILE="../../../../ShatteredRealm/MainGame/Content/Blueprints/AI/BP_StandardEnemyBlend.uasset" SILENT=true
+[2021.05.12-17.05.11:238][542]LogSavePackage: Moving '../../../../ShatteredRealm/MainGame/Saved/BP_StandardEnemyBlend6D24513D4C00F4F9567A12AB7BF4BE86.tmp' to '../../../../ShatteredRealm/MainGame/Content/Blueprints/AI/BP_StandardEnemyBlend.uasset'
+[2021.05.12-17.05.11:254][542]AssetCheck: New page: Asset Save: BP_StandardEnemyBlend
+[2021.05.12-17.05.11:254][542]LogContentValidation: Display: Validating BlendSpace /Game/Blueprints/AI/BP_StandardEnemyBlend.BP_StandardEnemyBlend
+[2021.05.12-17.06.25:393][925]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/BP_StandardEnemyBlend" FILE="../../../../ShatteredRealm/MainGame/Content/Blueprints/AI/BP_StandardEnemyBlend.uasset" SILENT=true
+[2021.05.12-17.06.25:395][925]LogSavePackage: Moving '../../../../ShatteredRealm/MainGame/Saved/BP_StandardEnemyBlend23C889BD4023B40EA385B09FDB38FB6E.tmp' to '../../../../ShatteredRealm/MainGame/Content/Blueprints/AI/BP_StandardEnemyBlend.uasset'
+[2021.05.12-17.06.25:413][925]AssetCheck: New page: Asset Save: BP_StandardEnemyBlend
+[2021.05.12-17.06.25:413][925]LogContentValidation: Display: Validating BlendSpace /Game/Blueprints/AI/BP_StandardEnemyBlend.BP_StandardEnemyBlend
+[2021.05.12-17.06.35:343][  7]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/BP_StandardEnemyBlend" FILE="../../../../ShatteredRealm/MainGame/Content/Blueprints/AI/BP_StandardEnemyBlend.uasset" SILENT=true
+[2021.05.12-17.06.35:346][  7]LogSavePackage: Moving '../../../../ShatteredRealm/MainGame/Saved/BP_StandardEnemyBlend2282B22946C7D4AD69F8A9A9C0525E2A.tmp' to '../../../../ShatteredRealm/MainGame/Content/Blueprints/AI/BP_StandardEnemyBlend.uasset'
+[2021.05.12-17.06.35:360][  7]AssetCheck: New page: Asset Save: BP_StandardEnemyBlend
+[2021.05.12-17.06.35:360][  7]LogContentValidation: Display: Validating BlendSpace /Game/Blueprints/AI/BP_StandardEnemyBlend.BP_StandardEnemyBlend
+[2021.05.12-17.06.36:900][164]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2021.05.12-17.06.36:900][164]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.12-17.06.36:982][164]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2021.05.12-17.06.36:983][164]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.12-17.06.37:514][206]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2021.05.12-17.06.37:514][206]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.12-17.06.37:566][206]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2021.05.12-17.06.37:566][206]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.12-17.09.10:069][431]LogContentBrowser: Attempting asset rename: Revenant_Anim_BP -> BP_Revenant_Anim
+[2021.05.12-17.09.10:248][431]LogMetaData: Removing '/Game/Blueprints/Player/BP_Revenant_Anim.BP_Revenant_Anim:AnimGraph.AnimGraphNode_Root_0' ref from Metadata '/Game/Blueprints/Player/Revenant_Anim_BP.PackageMetaData'
+[2021.05.12-17.09.10:248][431]LogMetaData: Removing '/Game/Blueprints/Player/BP_Revenant_Anim.BP_Revenant_Anim_C' ref from Metadata '/Game/Blueprints/Player/Revenant_Anim_BP.PackageMetaData'
+[2021.05.12-17.09.10:248][431]LogMetaData: Removing '/Game/Blueprints/Player/BP_Revenant_Anim.BP_Revenant_Anim:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/Player/Revenant_Anim_BP.PackageMetaData'
+[2021.05.12-17.09.10:248][431]LogMetaData: Removing '/Game/Blueprints/Player/BP_Revenant_Anim.BP_Revenant_Anim:EventGraph.K2Node_CallFunction_0' ref from Metadata '/Game/Blueprints/Player/Revenant_Anim_BP.PackageMetaData'
+[2021.05.12-17.09.10:248][431]LogMetaData: Removing '/Game/Blueprints/Player/BP_Revenant_Anim.BP_Revenant_Anim:AnimGraph.AnimGraphNode_StateMachine_0.IdleToWalking.AnimStateEntryNode_0' ref from Metadata '/Game/Blueprints/Player/Revenant_Anim_BP.PackageMetaData'
+[2021.05.12-17.09.10:248][431]LogMetaData: Removing '/Game/Blueprints/Player/BP_Revenant_Anim.BP_Revenant_Anim:AnimGraph.AnimGraphNode_StateMachine_0.IdleToWalking.AnimStateNode_0.Idle.AnimGraphNode_StateResult_0' ref from Metadata '/Game/Blueprints/Player/Revenant_Anim_BP.PackageMetaData'
+[2021.05.12-17.09.10:248][431]LogMetaData: Removing '/Game/Blueprints/Player/BP_Revenant_Anim.BP_Revenant_Anim:AnimGraph.AnimGraphNode_StateMachine_0.IdleToWalking.AnimStateNode_4.Walking.AnimGraphNode_StateResult_0' ref from Metadata '/Game/Blueprints/Player/Revenant_Anim_BP.PackageMetaData'
+[2021.05.12-17.09.10:248][431]LogMetaData: Removing '/Game/Blueprints/Player/BP_Revenant_Anim.BP_Revenant_Anim:AnimGraph.AnimGraphNode_StateMachine_0.IdleToWalking.AnimStateTransitionNode_6.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Blueprints/Player/Revenant_Anim_BP.PackageMetaData'
+[2021.05.12-17.09.10:248][431]LogMetaData: Removing '/Game/Blueprints/Player/BP_Revenant_Anim.BP_Revenant_Anim:AnimGraph.AnimGraphNode_StateMachine_0.IdleToWalking.AnimStateTransitionNode_7.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Blueprints/Player/Revenant_Anim_BP.PackageMetaData'
+[2021.05.12-17.09.10:248][431]LogMetaData: Removing '/Game/Blueprints/Player/BP_Revenant_Anim.SKEL_BP_Revenant_Anim_C' ref from Metadata '/Game/Blueprints/Player/Revenant_Anim_BP.PackageMetaData'
+[2021.05.12-17.09.10:248][431]LogMetaData: Removing '/Game/Blueprints/Player/BP_Revenant_Anim.BP_Revenant_Anim_C:BlueprintUpdateAnimation' ref from Metadata '/Game/Blueprints/Player/Revenant_Anim_BP.PackageMetaData'
+[2021.05.12-17.09.10:248][431]LogMetaData: Removing '/Game/Blueprints/Player/BP_Revenant_Anim.BP_Revenant_Anim_C:AnimGraph' ref from Metadata '/Game/Blueprints/Player/Revenant_Anim_BP.PackageMetaData'
+[2021.05.12-17.09.10:248][431]LogMetaData: Removing '/Game/Blueprints/Player/BP_Revenant_Anim.SKEL_BP_Revenant_Anim_C:BlueprintUpdateAnimation' ref from Metadata '/Game/Blueprints/Player/Revenant_Anim_BP.PackageMetaData'
+[2021.05.12-17.09.10:248][431]LogMetaData: Removing '/Game/Blueprints/Player/BP_Revenant_Anim.SKEL_BP_Revenant_Anim_C:AnimGraph' ref from Metadata '/Game/Blueprints/Player/Revenant_Anim_BP.PackageMetaData'
+[2021.05.12-17.09.10:302][431]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player/BP_Revenant_Anim" FILE="../../../../ShatteredRealm/MainGame/Content/Blueprints/Player/BP_Revenant_Anim.uasset" SILENT=true
+[2021.05.12-17.09.10:342][431]LogSavePackage: Moving '../../../../ShatteredRealm/MainGame/Saved/BP_Revenant_AnimCEDC368D47AAFE79607E8F95E7E80BA8.tmp' to '../../../../ShatteredRealm/MainGame/Content/Blueprints/Player/BP_Revenant_Anim.uasset'
+[2021.05.12-17.09.10:697][431]LogUObjectHash: Compacting FUObjectHashTables data took   7.37ms
+[2021.05.12-17.09.10:797][431]LogUObjectHash: Compacting FUObjectHashTables data took   4.84ms
+[2021.05.12-17.09.10:830][431]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.05.12-17.09.10:855][431]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player/BP_TDController" FILE="../../../../ShatteredRealm/MainGame/Content/Blueprints/Player/BP_TDController.uasset" SILENT=true
+[2021.05.12-17.09.10:915][431]LogSavePackage: Moving '../../../../ShatteredRealm/MainGame/Saved/BP_TDController3F79FCC44CA92120EB3994B4F7EC72CC.tmp' to '../../../../ShatteredRealm/MainGame/Content/Blueprints/Player/BP_TDController.uasset'
+[2021.05.12-17.09.11:102][431]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.12-17.09.11:102][431]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player/BP_TDController.BP_TDController
+[2021.05.12-17.09.11:102][431]LogContentValidation: Display: Validating AnimBlueprint /Game/Blueprints/Player/BP_Revenant_Anim.BP_Revenant_Anim
+[2021.05.12-17.09.19:456][331]LogContentBrowser: Attempting asset rename: Revenant_Blend_BP -> BP_Revenant_Blend
+[2021.05.12-17.09.19:524][331]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player/BP_Revenant_Blend" FILE="../../../../ShatteredRealm/MainGame/Content/Blueprints/Player/BP_Revenant_Blend.uasset" SILENT=true
+[2021.05.12-17.09.19:530][331]LogSavePackage: Moving '../../../../ShatteredRealm/MainGame/Saved/BP_Revenant_Blend1FFEC21642C1204AF5A609BCCC2EB4A2.tmp' to '../../../../ShatteredRealm/MainGame/Content/Blueprints/Player/BP_Revenant_Blend.uasset'
+[2021.05.12-17.09.19:617][331]LogUObjectHash: Compacting FUObjectHashTables data took   5.00ms
+[2021.05.12-17.09.19:665][331]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2021.05.12-17.09.19:700][331]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.05.12-17.09.19:756][331]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player/BP_Revenant_Anim" FILE="../../../../ShatteredRealm/MainGame/Content/Blueprints/Player/BP_Revenant_Anim.uasset" SILENT=true
+[2021.05.12-17.09.19:782][331]LogSavePackage: Moving '../../../../ShatteredRealm/MainGame/Saved/BP_Revenant_Anim76EDC1D84D72D3C8897DDBBEE714DF10.tmp' to '../../../../ShatteredRealm/MainGame/Content/Blueprints/Player/BP_Revenant_Anim.uasset'
+[2021.05.12-17.09.19:870][331]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.12-17.09.19:870][331]LogContentValidation: Display: Validating BlendSpace /Game/Blueprints/Player/BP_Revenant_Blend.BP_Revenant_Blend
+[2021.05.12-17.09.19:870][331]LogContentValidation: Display: Validating AnimBlueprint /Game/Blueprints/Player/BP_Revenant_Anim.BP_Revenant_Anim
+[2021.05.12-17.09.20:932][423]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2021.05.12-17.09.20:949][423]LogSavePackage: Moving '../../../../ShatteredRealm/MainGame/Saved/TopDownExampleMap5055C9FB4CA03FC10B0466BA9381A27D.tmp' to '../../../../ShatteredRealm/MainGame/Content/AGR_EXAMPLES/Maps/TopDownExampleMap.umap'
+[2021.05.12-17.09.20:958][423]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AGR_EXAMPLES/Maps/TopDownExampleMap_BuiltData" FILE="../../../../ShatteredRealm/MainGame/Content/AGR_EXAMPLES/Maps/TopDownExampleMap_BuiltData.uasset" SILENT=true
+[2021.05.12-17.09.21:142][423]LogSavePackage: Moving '../../../../ShatteredRealm/MainGame/Saved/TopDownExampleMap_BuiltDataB54BD1D840D79DEC6041BB848CBA061C.tmp' to '../../../../ShatteredRealm/MainGame/Content/AGR_EXAMPLES/Maps/TopDownExampleMap_BuiltData.uasset'
+[2021.05.12-17.09.21:154][423]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.12-17.09.21:154][423]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/AGR_EXAMPLES/Maps/TopDownExampleMap_BuiltData.TopDownExampleMap_BuiltData
+[2021.05.12-17.09.21:154][423]LogContentValidation: Display: Validating World /Game/AGR_EXAMPLES/Maps/TopDownExampleMap.TopDownExampleMap
+[2021.05.12-17.09.23:176][620]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2021.05.12-17.09.23:846][688]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.12-17.09.23:854][688]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.05.12-17.09.23:856][688]LogPlayLevel: [PlayLevel] Compiling BP_TDController before play...
+[2021.05.12-17.09.23:934][688]LogPlayLevel: [PlayLevel] Compiling BP_Revenant_Anim before play...
+[2021.05.12-17.09.24:067][688]LogUObjectHash: Compacting FUObjectHashTables data took   5.96ms
+[2021.05.12-17.09.24:068][688]LogPlayLevel: PlayLevel: Blueprint regeneration took 214 ms (2 blueprints)
+[2021.05.12-17.09.24:069][688]PIE: New page: PIE session: TopDownExampleMap (May 12, 2021, 11:09:24 PM)
+[2021.05.12-17.09.24:069][688]LogPlayLevel: Creating play world package: /Game/AGR_EXAMPLES/Maps/UEDPIE_0_TopDownExampleMap
+[2021.05.12-17.09.24:085][688]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016332s)
+[2021.05.12-17.09.24:087][688]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.05.12-17.09.24:087][688]LogPlayLevel: PIE: World Init took: (0.001826s)
+[2021.05.12-17.09.24:087][688]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AGR_EXAMPLES/Maps/TopDownExampleMap.TopDownExampleMap to /Game/AGR_EXAMPLES/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.018352s)
+[2021.05.12-17.09.24:133][688]LogUObjectHash: Compacting FUObjectHashTables data took   5.10ms
+[2021.05.12-17.09.24:134][688]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2021.05.12-17.09.24:134][688]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.12-17.09.24:134][688]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.12-17.09.24:134][688]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.12-17.09.24:134][688]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.12-17.09.24:134][688]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.12-17.09.24:134][688]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.12-17.09.24:134][688]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.12-17.09.24:134][688]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.12-17.09.24:135][688]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.12-17.09.24:135][688]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.12-17.09.24:138][688]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.12-17.09.24:138][688]LogAudioMixer: Display: 1: FrontRight
+[2021.05.12-17.09.24:191][688]LogAudioMixer: Display: Using Audio Device Динамики (2- Устройство с поддержкой High Definition Audio)
+[2021.05.12-17.09.24:192][688]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.12-17.09.24:192][688]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.12-17.09.24:192][688]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.12-17.09.24:192][688]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.12-17.09.24:192][688]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.12-17.09.24:192][688]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.12-17.09.24:196][688]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.12-17.09.24:196][688]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.12-17.09.24:196][688]LogInit: FAudioDevice initialized.
+[2021.05.12-17.09.24:196][688]LogAudio: Display: Audio Device (ID: 30) registered with world 'TopDownExampleMap'.
+[2021.05.12-17.09.24:213][688]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2021.05.12-17.09.24:214][688]LogWorld: Bringing World /Game/AGR_EXAMPLES/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2021.05.12-20.09.24
+[2021.05.12-17.09.24:215][688]LogWorld: Bringing up level for play took: 0.001765
+[2021.05.12-17.09.24:215][688]LogOnline: OSS: Creating online subsystem instance for: :Context_58
+[2021.05.12-17.09.24:219][688]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.05.12-17.09.24:219][688]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.05.12-17.09.24:219][688]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.05.12-17.09.24:229][688]LogBlueprintUserMessages: [BP_StandardEnemy_2] 100.0
+[2021.05.12-17.09.24:229][688]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.05.12-17.09.24:229][688]PIE: Server logged in
+[2021.05.12-17.09.24:231][688]PIE: Play in editor total start time 0.378 seconds.
+[2021.05.12-17.09.27:616][ 84]LogBlueprintUserMessages: [BP_StandardEnemy_2] 25.0
+[2021.05.12-17.09.27:616][ 84]LogBlueprintUserMessages: [BP_StandardEnemy_2] 75.0
+[2021.05.12-17.09.28:110][143]LogBlueprintUserMessages: [BP_StandardEnemy_2] 25.0
+[2021.05.12-17.09.28:110][143]LogBlueprintUserMessages: [BP_StandardEnemy_2] 50.0
+[2021.05.12-17.09.28:525][192]LogBlueprintUserMessages: [BP_StandardEnemy_2] 25.0
+[2021.05.12-17.09.28:525][192]LogBlueprintUserMessages: [BP_StandardEnemy_2] 25.0
+[2021.05.12-17.09.31:606][545]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.12-17.09.31:606][545]LogWorld: BeginTearingDown for /Game/AGR_EXAMPLES/Maps/UEDPIE_0_TopDownExampleMap
+[2021.05.12-17.09.31:606][545]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.12-17.09.31:606][545]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.12-17.09.31:615][545]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.12-17.09.31:634][545]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.12-17.09.31:670][545]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.12-17.09.31:671][545]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.12-17.09.31:671][545]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.12-17.09.31:689][545]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
+[2021.05.12-17.09.31:734][546]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2021.05.12-17.11.45:914][998]LogContentBrowser: Attempting asset rename: BP_StandardEnemyBlend -> BP_StandardEnemy_Blend
+[2021.05.12-17.11.45:978][998]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/BP_StandardEnemy_Blend" FILE="../../../../ShatteredRealm/MainGame/Content/Blueprints/AI/BP_StandardEnemy_Blend.uasset" SILENT=true
+[2021.05.12-17.11.45:983][998]LogSavePackage: Moving '../../../../ShatteredRealm/MainGame/Saved/BP_StandardEnemy_BlendE6494B364ED475C2887DCBAE4DF6588B.tmp' to '../../../../ShatteredRealm/MainGame/Content/Blueprints/AI/BP_StandardEnemy_Blend.uasset'
+[2021.05.12-17.11.46:071][998]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2021.05.12-17.11.46:124][998]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2021.05.12-17.11.46:159][998]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2021.05.12-17.11.46:225][998]AssetCheck: New page: Asset Save: BP_StandardEnemy_Blend
+[2021.05.12-17.11.46:225][998]LogContentValidation: Display: Validating BlendSpace /Game/Blueprints/AI/BP_StandardEnemy_Blend.BP_StandardEnemy_Blend
+[2021.05.12-17.11.53:906][683]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2021.05.12-17.11.53:924][683]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2021.05.12-17.11.56:904][683]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2021.05.12-17.11.56:911][683]LogContentBrowser: Deferred new asset file creation: NewAnimBlueprint
+[2021.05.12-17.11.56:925][683]LogContentBrowser: Creating deferred item: NewAnimBlueprint
+[2021.05.12-17.13.38:034][182]LogContentBrowser: Attempting asset rename: NewAnimBlueprint -> BP_
+[2021.05.12-17.13.38:051][182]LogContentBrowser: End creating deferred item NewAnimBlueprint
+[2021.05.12-17.13.51:621][653]LogContentBrowser: Attempting asset rename: BP_ -> BP_StandardEnemy_Anim
+[2021.05.12-17.13.51:651][653]LogMetaData: Removing '/Game/Blueprints/AI/BP_StandardEnemy_Anim.BP_StandardEnemy_Anim:AnimGraph.AnimGraphNode_Root_0' ref from Metadata '/Game/Blueprints/AI/BP_.PackageMetaData'
+[2021.05.12-17.13.51:651][653]LogMetaData: Removing '/Game/Blueprints/AI/BP_StandardEnemy_Anim.SKEL_BP_StandardEnemy_Anim_C:AnimGraph' ref from Metadata '/Game/Blueprints/AI/BP_.PackageMetaData'
+[2021.05.12-17.13.51:651][653]LogMetaData: Removing '/Game/Blueprints/AI/BP_StandardEnemy_Anim.SKEL_BP_StandardEnemy_Anim_C' ref from Metadata '/Game/Blueprints/AI/BP_.PackageMetaData'
+[2021.05.12-17.13.51:651][653]LogMetaData: Removing '/Game/Blueprints/AI/BP_StandardEnemy_Anim.BP_StandardEnemy_Anim_C:AnimGraph' ref from Metadata '/Game/Blueprints/AI/BP_.PackageMetaData'
+[2021.05.12-17.13.51:651][653]LogMetaData: Removing '/Game/Blueprints/AI/BP_StandardEnemy_Anim.BP_StandardEnemy_Anim_C' ref from Metadata '/Game/Blueprints/AI/BP_.PackageMetaData'
+[2021.05.12-17.13.51:651][653]LogMetaData: Removing '/Game/Blueprints/AI/BP_StandardEnemy_Anim.BP_StandardEnemy_Anim:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/AI/BP_.PackageMetaData'
+[2021.05.12-17.13.51:651][653]LogMetaData: Removing '/Game/Blueprints/AI/BP_StandardEnemy_Anim.BP_StandardEnemy_Anim:EventGraph.K2Node_CallFunction_0' ref from Metadata '/Game/Blueprints/AI/BP_.PackageMetaData'
+[2021.05.12-17.13.51:690][653]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/BP_StandardEnemy_Anim" FILE="../../../../ShatteredRealm/MainGame/Content/Blueprints/AI/BP_StandardEnemy_Anim.uasset" SILENT=true
+[2021.05.12-17.13.51:696][653]LogSavePackage: Moving '../../../../ShatteredRealm/MainGame/Saved/BP_StandardEnemy_Anim200E63214101ACB07C80ADB7A58D454F.tmp' to '../../../../ShatteredRealm/MainGame/Content/Blueprints/AI/BP_StandardEnemy_Anim.uasset'
+[2021.05.12-17.13.51:797][653]LogUObjectHash: Compacting FUObjectHashTables data took   5.09ms
+[2021.05.12-17.13.51:857][653]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2021.05.12-17.13.51:895][653]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2021.05.12-17.13.51:983][653]AssetCheck: New page: Asset Save: BP_StandardEnemy_Anim
+[2021.05.12-17.13.51:983][653]LogContentValidation: Display: Validating AnimBlueprint /Game/Blueprints/AI/BP_StandardEnemy_Anim.BP_StandardEnemy_Anim
+[2021.05.12-17.13.53:036][755]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Blueprints/AI/BP_StandardEnemy_Anim.BP_StandardEnemy_Anim
+[2021.05.12-17.13.53:109][755]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.05.12-17.13.54:041][755]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.05.12-17.13.55:619][871]LogSlate: Window 'BP_StandardEnemy_Anim' being destroyed
+[2021.05.12-17.15.51:571][532]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.05.12-17.15.51:571][532]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.05.12-17.15.51:571][532]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.12-17.15.52:066][569]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.05.12-17.15.52:066][569]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.05.12-17.15.52:066][569]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.12-17.15.55:190][786]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Blueprints/Player/BP_Revenant_Anim.BP_Revenant_Anim
+[2021.05.12-17.15.55:296][786]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.05.12-17.15.56:055][786]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.05.12-17.18.51:433][ 12]BlueprintLog: New page: Compile BP_StandardEnemy_Anim
+[2021.05.12-17.18.51:562][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   6.71ms
+[2021.05.12-17.18.51:964][ 45]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/BP_StandardEnemy_Anim" FILE="../../../../ShatteredRealm/MainGame/Content/Blueprints/AI/BP_StandardEnemy_Anim.uasset" SILENT=true
+[2021.05.12-17.18.51:977][ 45]LogSavePackage: Moving '../../../../ShatteredRealm/MainGame/Saved/BP_StandardEnemy_Anim87B6B80047C513E5C861F8BFC9B7FFE7.tmp' to '../../../../ShatteredRealm/MainGame/Content/Blueprints/AI/BP_StandardEnemy_Anim.uasset'
+[2021.05.12-17.18.51:990][ 45]AssetCheck: New page: Asset Save: BP_StandardEnemy_Anim
+[2021.05.12-17.18.51:990][ 45]LogContentValidation: Display: Validating AnimBlueprint /Game/Blueprints/AI/BP_StandardEnemy_Anim.BP_StandardEnemy_Anim
+[2021.05.12-17.20.12:636][519]LogSlate: Took 0.006797 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.05.12-17.20.35:210][ 98]LogContentBrowser: Verbose: The majority of assets in the view are of type: BlendSpace
+[2021.05.12-17.20.37:510][363]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/Blueprints/AI/BP_StandardEnemy_Blend.BP_StandardEnemy_Blend
+[2021.05.12-17.20.37:513][363]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.05.12-17.20.37:818][363]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.05.12-17.20.42:515][845]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2021.05.12-17.20.42:515][845]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.12-17.20.42:565][845]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2021.05.12-17.20.42:565][845]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.12-17.20.57:211][498]BlueprintLog: New page: Compile BP_StandardEnemy_Anim
+[2021.05.12-17.20.57:312][498]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2021.05.12-17.20.57:684][529]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/BP_StandardEnemy_Anim" FILE="../../../../ShatteredRealm/MainGame/Content/Blueprints/AI/BP_StandardEnemy_Anim.uasset" SILENT=true
+[2021.05.12-17.20.57:701][529]LogSavePackage: Moving '../../../../ShatteredRealm/MainGame/Saved/BP_StandardEnemy_AnimF991D4DD49F3D584EADC25B540A5F6E2.tmp' to '../../../../ShatteredRealm/MainGame/Content/Blueprints/AI/BP_StandardEnemy_Anim.uasset'
+[2021.05.12-17.20.57:715][529]AssetCheck: New page: Asset Save: BP_StandardEnemy_Anim
+[2021.05.12-17.20.57:715][529]LogContentValidation: Display: Validating AnimBlueprint /Game/Blueprints/AI/BP_StandardEnemy_Anim.BP_StandardEnemy_Anim
+[2021.05.12-17.23.24:763][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2021.05.12-17.23.24:769][ 23]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/AGR_EXAMPLES/Maps/TopDownExampleMap' took 0.040
+[2021.05.12-17.23.24:770][ 23]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/AI/BP_StandardEnemy_Anim] ([1] browsable assets)...
+[2021.05.12-17.23.24:845][ 23]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Blueprints/AI/BP_StandardEnemy_Anim.BP_StandardEnemy_Anim]
+[2021.05.12-17.23.24:846][ 23]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AI/BP_StandardEnemy_Anim]
+[2021.05.12-17.23.24:861][ 23]LogSavePackage: Moving '../../../../ShatteredRealm/MainGame/Saved/BP_StandardEnemy_Anim_Auto26515C52048ABD2F80B748A87718E4CCD.tmp' to '../../../../ShatteredRealm/MainGame/Saved/Autosaves/Game/Blueprints/AI/BP_StandardEnemy_Anim_Auto2.uasset'
+[2021.05.12-17.23.24:862][ 23]LogFileHelpers: Auto-saving content packages took 0.093
+[2021.05.12-17.26.06:534][474]BlueprintLog: New page: Compile BP_StandardEnemy_Anim
+[2021.05.12-17.26.06:580][474]LogBlueprint: Warning: [AssetLog] D:\ShatteredRealm\MainGame\Content\Blueprints\AI\BP_StandardEnemy_Anim.uasset: [Compiler] Idle to Walking  will never be taken, please connect something to  Can Enter Transition
+[2021.05.12-17.26.06:580][474]LogBlueprint: Warning: [AssetLog] D:\ShatteredRealm\MainGame\Content\Blueprints\AI\BP_StandardEnemy_Anim.uasset: [Compiler] Walking to Idle  will never be taken, please connect something to  Can Enter Transition
+[2021.05.12-17.26.06:624][474]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2021.05.12-17.26.06:960][500]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/BP_StandardEnemy_Anim" FILE="../../../../ShatteredRealm/MainGame/Content/Blueprints/AI/BP_StandardEnemy_Anim.uasset" SILENT=true
+[2021.05.12-17.26.06:980][500]LogSavePackage: Moving '../../../../ShatteredRealm/MainGame/Saved/BP_StandardEnemy_Anim8839BA234AA5C0A746FB97B764170228.tmp' to '../../../../ShatteredRealm/MainGame/Content/Blueprints/AI/BP_StandardEnemy_Anim.uasset'
+[2021.05.12-17.26.06:995][500]AssetCheck: New page: Asset Save: BP_StandardEnemy_Anim
+[2021.05.12-17.26.06:995][500]LogContentValidation: Display: Validating AnimBlueprint /Game/Blueprints/AI/BP_StandardEnemy_Anim.BP_StandardEnemy_Anim
+[2021.05.12-17.26.42:556][988]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/BP_StandardEnemy_Anim" FILE="../../../../ShatteredRealm/MainGame/Content/Blueprints/AI/BP_StandardEnemy_Anim.uasset" SILENT=true
+[2021.05.12-17.26.42:569][988]LogSavePackage: Moving '../../../../ShatteredRealm/MainGame/Saved/BP_StandardEnemy_Anim1F4FE4794C03A16BB0F5A2963D3EC621.tmp' to '../../../../ShatteredRealm/MainGame/Content/Blueprints/AI/BP_StandardEnemy_Anim.uasset'
+[2021.05.12-17.26.42:579][988]AssetCheck: New page: Asset Save: BP_StandardEnemy_Anim
+[2021.05.12-17.26.42:579][988]LogContentValidation: Display: Validating AnimBlueprint /Game/Blueprints/AI/BP_StandardEnemy_Anim.BP_StandardEnemy_Anim
+[2021.05.12-17.26.58:697][840]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/BP_StandardEnemy_Anim" FILE="../../../../ShatteredRealm/MainGame/Content/Blueprints/AI/BP_StandardEnemy_Anim.uasset" SILENT=true
+[2021.05.12-17.26.58:716][840]LogSavePackage: Moving '../../../../ShatteredRealm/MainGame/Saved/BP_StandardEnemy_AnimBF326C4B49E98E64849D819BF6031181.tmp' to '../../../../ShatteredRealm/MainGame/Content/Blueprints/AI/BP_StandardEnemy_Anim.uasset'
+[2021.05.12-17.26.58:726][840]AssetCheck: New page: Asset Save: BP_StandardEnemy_Anim
+[2021.05.12-17.26.58:726][840]LogContentValidation: Display: Validating AnimBlueprint /Game/Blueprints/AI/BP_StandardEnemy_Anim.BP_StandardEnemy_Anim
+[2021.05.12-17.27.00:394][ 25]BlueprintLog: New page: Compile BP_StandardEnemy_Anim
+[2021.05.12-17.27.00:397][ 25]LogBlueprint: Warning: [AssetLog] D:\ShatteredRealm\MainGame\Content\Blueprints\AI\BP_StandardEnemy_Anim.uasset: [Compiler] Walking to Idle  will never be taken, please connect something to  Can Enter Transition
+[2021.05.12-17.27.00:442][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2021.05.12-17.27.00:822][ 59]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/BP_StandardEnemy_Anim" FILE="../../../../ShatteredRealm/MainGame/Content/Blueprints/AI/BP_StandardEnemy_Anim.uasset" SILENT=true
+[2021.05.12-17.27.00:844][ 59]LogSavePackage: Moving '../../../../ShatteredRealm/MainGame/Saved/BP_StandardEnemy_AnimC74B688F4BF730C389E7F7B0FCFFEAAF.tmp' to '../../../../ShatteredRealm/MainGame/Content/Blueprints/AI/BP_StandardEnemy_Anim.uasset'
+[2021.05.12-17.27.00:854][ 59]AssetCheck: New page: Asset Save: BP_StandardEnemy_Anim
+[2021.05.12-17.27.00:854][ 59]LogContentValidation: Display: Validating AnimBlueprint /Game/Blueprints/AI/BP_StandardEnemy_Anim.BP_StandardEnemy_Anim
+[2021.05.12-17.27.16:446][846]BlueprintLog: New page: Compile BP_StandardEnemy_Anim
+[2021.05.12-17.27.16:496][846]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2021.05.12-17.27.16:806][872]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/BP_StandardEnemy_Anim" FILE="../../../../ShatteredRealm/MainGame/Content/Blueprints/AI/BP_StandardEnemy_Anim.uasset" SILENT=true
+[2021.05.12-17.27.16:830][872]LogSavePackage: Moving '../../../../ShatteredRealm/MainGame/Saved/BP_StandardEnemy_Anim7BDE53B74709B9A883071F864516D5CB.tmp' to '../../../../ShatteredRealm/MainGame/Content/Blueprints/AI/BP_StandardEnemy_Anim.uasset'
+[2021.05.12-17.27.16:845][872]AssetCheck: New page: Asset Save: BP_StandardEnemy_Anim
+[2021.05.12-17.27.16:845][872]LogContentValidation: Display: Validating AnimBlueprint /Game/Blueprints/AI/BP_StandardEnemy_Anim.BP_StandardEnemy_Anim
+[2021.05.12-17.27.23:738][392]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/AI/BP_StandardEnemy.BP_StandardEnemy
+[2021.05.12-17.27.29:892][878]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.05.12-17.27.38:347][733]BlueprintLog: New page: Compile BP_StandardEnemy
+[2021.05.12-17.27.38:434][733]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2021.05.12-17.27.38:850][765]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/BP_StandardEnemy" FILE="../../../../ShatteredRealm/MainGame/Content/Blueprints/AI/BP_StandardEnemy.uasset" SILENT=true
+[2021.05.12-17.27.38:871][765]LogSavePackage: Moving '../../../../ShatteredRealm/MainGame/Saved/BP_StandardEnemy05A74B2D49F4EA65085AC5B4F95DEF3A.tmp' to '../../../../ShatteredRealm/MainGame/Content/Blueprints/AI/BP_StandardEnemy.uasset'
+[2021.05.12-17.27.38:885][765]AssetCheck: New page: Asset Save: BP_StandardEnemy
+[2021.05.12-17.27.38:885][765]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/AI/BP_StandardEnemy.BP_StandardEnemy
+[2021.05.12-17.31.54:240][893]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/BP_StandardEnemy_Anim" FILE="../../../../ShatteredRealm/MainGame/Content/Blueprints/AI/BP_StandardEnemy_Anim.uasset" SILENT=true
+[2021.05.12-17.31.54:259][893]LogSavePackage: Moving '../../../../ShatteredRealm/MainGame/Saved/BP_StandardEnemy_Anim3DE84CDB4DCDF5AC346C148340F7154A.tmp' to '../../../../ShatteredRealm/MainGame/Content/Blueprints/AI/BP_StandardEnemy_Anim.uasset'
+[2021.05.12-17.31.54:274][893]AssetCheck: New page: Asset Save: BP_StandardEnemy_Anim
+[2021.05.12-17.31.54:274][893]LogContentValidation: Display: Validating AnimBlueprint /Game/Blueprints/AI/BP_StandardEnemy_Anim.BP_StandardEnemy_Anim
+[2021.05.12-17.31.55:247][980]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2021.05.12-17.31.55:296][980]LogSavePackage: Moving '../../../../ShatteredRealm/MainGame/Saved/TopDownExampleMap127A39724D4986305AF75080D54AF146.tmp' to '../../../../ShatteredRealm/MainGame/Content/AGR_EXAMPLES/Maps/TopDownExampleMap.umap'
+[2021.05.12-17.31.55:305][980]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AGR_EXAMPLES/Maps/TopDownExampleMap_BuiltData" FILE="../../../../ShatteredRealm/MainGame/Content/AGR_EXAMPLES/Maps/TopDownExampleMap_BuiltData.uasset" SILENT=true
+[2021.05.12-17.31.55:378][980]LogSavePackage: Moving '../../../../ShatteredRealm/MainGame/Saved/TopDownExampleMap_BuiltData573B383E477C7DD5448FBB89BC345BB3.tmp' to '../../../../ShatteredRealm/MainGame/Content/AGR_EXAMPLES/Maps/TopDownExampleMap_BuiltData.uasset'
+[2021.05.12-17.31.55:390][980]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.12-17.31.55:390][980]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/AGR_EXAMPLES/Maps/TopDownExampleMap_BuiltData.TopDownExampleMap_BuiltData
+[2021.05.12-17.31.55:390][980]LogContentValidation: Display: Validating World /Game/AGR_EXAMPLES/Maps/TopDownExampleMap.TopDownExampleMap
+[2021.05.12-17.31.55:959][ 36]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.12-17.31.55:965][ 36]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.12-17.31.55:965][ 36]PIE: New page: PIE session: TopDownExampleMap (May 12, 2021, 11:31:55 PM)
+[2021.05.12-17.31.55:965][ 36]LogPlayLevel: Creating play world package: /Game/AGR_EXAMPLES/Maps/UEDPIE_0_TopDownExampleMap
+[2021.05.12-17.31.55:978][ 36]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013374s)
+[2021.05.12-17.31.55:979][ 36]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.05.12-17.31.55:980][ 36]LogPlayLevel: PIE: World Init took: (0.001532s)
+[2021.05.12-17.31.55:980][ 36]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AGR_EXAMPLES/Maps/TopDownExampleMap.TopDownExampleMap to /Game/AGR_EXAMPLES/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.015048s)
+[2021.05.12-17.31.56:013][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2021.05.12-17.31.56:015][ 36]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2021.05.12-17.31.56:015][ 36]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.12-17.31.56:015][ 36]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.12-17.31.56:015][ 36]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.12-17.31.56:015][ 36]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.12-17.31.56:015][ 36]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.12-17.31.56:015][ 36]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.12-17.31.56:015][ 36]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.12-17.31.56:015][ 36]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.12-17.31.56:015][ 36]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.12-17.31.56:015][ 36]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.12-17.31.56:018][ 36]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.12-17.31.56:018][ 36]LogAudioMixer: Display: 1: FrontRight
+[2021.05.12-17.31.56:063][ 36]LogAudioMixer: Display: Using Audio Device Динамики (2- Устройство с поддержкой High Definition Audio)
+[2021.05.12-17.31.56:063][ 36]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.12-17.31.56:063][ 36]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.12-17.31.56:063][ 36]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.12-17.31.56:064][ 36]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.12-17.31.56:064][ 36]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.12-17.31.56:064][ 36]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.12-17.31.56:066][ 36]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.12-17.31.56:066][ 36]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.12-17.31.56:066][ 36]LogInit: FAudioDevice initialized.
+[2021.05.12-17.31.56:066][ 36]LogAudio: Display: Audio Device (ID: 31) registered with world 'TopDownExampleMap'.
+[2021.05.12-17.31.56:077][ 36]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2021.05.12-17.31.56:079][ 36]LogWorld: Bringing World /Game/AGR_EXAMPLES/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2021.05.12-20.31.56
+[2021.05.12-17.31.56:080][ 36]LogWorld: Bringing up level for play took: 0.001822
+[2021.05.12-17.31.56:080][ 36]LogOnline: OSS: Creating online subsystem instance for: :Context_70
+[2021.05.12-17.31.56:083][ 36]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.05.12-17.31.56:083][ 36]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.05.12-17.31.56:083][ 36]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.05.12-17.31.56:091][ 36]LogBlueprintUserMessages: [BP_StandardEnemy_2] 100.0
+[2021.05.12-17.31.56:092][ 36]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.05.12-17.31.56:092][ 36]PIE: Server logged in
+[2021.05.12-17.31.56:093][ 36]PIE: Play in editor total start time 0.129 seconds.
+[2021.05.12-17.31.57:787][232]LogBlueprintUserMessages: [BP_StandardEnemy_2] 25.0
+[2021.05.12-17.31.57:787][232]LogBlueprintUserMessages: [BP_StandardEnemy_2] 75.0
+[2021.05.12-17.31.59:662][457]LogBlueprintUserMessages: [BP_StandardEnemy_2] 25.0
+[2021.05.12-17.31.59:662][457]LogBlueprintUserMessages: [BP_StandardEnemy_2] 50.0
+[2021.05.12-17.32.00:079][507]LogBlueprintUserMessages: [BP_StandardEnemy_2] 25.0
+[2021.05.12-17.32.00:079][507]LogBlueprintUserMessages: [BP_StandardEnemy_2] 25.0
+[2021.05.12-17.32.00:415][547]LogBlueprintUserMessages: [BP_StandardEnemy_2] Enemy is dead
+[2021.05.12-17.32.00:415][547]LogBlueprintUserMessages: [BP_StandardEnemy_2] 25.0
+[2021.05.12-17.32.00:416][547]LogBlueprintUserMessages: [BP_StandardEnemy_2] 0.0
+[2021.05.12-17.32.01:555][678]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.12-17.32.01:555][678]LogWorld: BeginTearingDown for /Game/AGR_EXAMPLES/Maps/UEDPIE_0_TopDownExampleMap
+[2021.05.12-17.32.01:555][678]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.12-17.32.01:555][678]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.12-17.32.01:565][678]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.12-17.32.01:581][678]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.12-17.32.01:609][678]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.12-17.32.01:609][678]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.12-17.32.01:610][678]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.12-17.32.01:625][678]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2021.05.12-17.32.01:665][679]LogPlayLevel: Display: Destroying online subsystem :Context_70
+[2021.05.12-17.32.09:533][532]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/BP_StandardEnemy" FILE="../../../../ShatteredRealm/MainGame/Content/Blueprints/AI/BP_StandardEnemy.uasset" SILENT=true
+[2021.05.12-17.32.09:546][532]LogSavePackage: Moving '../../../../ShatteredRealm/MainGame/Saved/BP_StandardEnemyD72460974643472AB63279BB9155E7E8.tmp' to '../../../../ShatteredRealm/MainGame/Content/Blueprints/AI/BP_StandardEnemy.uasset'
+[2021.05.12-17.32.09:556][532]AssetCheck: New page: Asset Save: BP_StandardEnemy
+[2021.05.12-17.32.09:556][532]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/AI/BP_StandardEnemy.BP_StandardEnemy
+[2021.05.12-17.33.56:313][666]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/BP_StandardEnemy_Anim" FILE="../../../../ShatteredRealm/MainGame/Content/Blueprints/AI/BP_StandardEnemy_Anim.uasset" SILENT=true
+[2021.05.12-17.33.56:331][666]LogSavePackage: Moving '../../../../ShatteredRealm/MainGame/Saved/BP_StandardEnemy_Anim100857094178B4138CD8209F41CCD368.tmp' to '../../../../ShatteredRealm/MainGame/Content/Blueprints/AI/BP_StandardEnemy_Anim.uasset'
+[2021.05.12-17.33.56:342][666]AssetCheck: New page: Asset Save: BP_StandardEnemy_Anim
+[2021.05.12-17.33.56:342][666]LogContentValidation: Display: Validating AnimBlueprint /Game/Blueprints/AI/BP_StandardEnemy_Anim.BP_StandardEnemy_Anim
+[2021.05.12-17.33.57:768][802]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.12-17.33.57:773][802]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.12-17.33.57:773][802]PIE: New page: PIE session: TopDownExampleMap (May 12, 2021, 11:33:57 PM)
+[2021.05.12-17.33.57:773][802]LogPlayLevel: Creating play world package: /Game/AGR_EXAMPLES/Maps/UEDPIE_0_TopDownExampleMap
+[2021.05.12-17.33.57:787][802]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014400s)
+[2021.05.12-17.33.57:789][802]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.05.12-17.33.57:789][802]LogPlayLevel: PIE: World Init took: (0.001624s)
+[2021.05.12-17.33.57:789][802]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AGR_EXAMPLES/Maps/TopDownExampleMap.TopDownExampleMap to /Game/AGR_EXAMPLES/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.016191s)
+[2021.05.12-17.33.57:827][802]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2021.05.12-17.33.57:830][802]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2021.05.12-17.33.57:830][802]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.12-17.33.57:830][802]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.12-17.33.57:830][802]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.12-17.33.57:830][802]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.12-17.33.57:830][802]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.12-17.33.57:831][802]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.12-17.33.57:831][802]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.12-17.33.57:831][802]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.12-17.33.57:831][802]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.12-17.33.57:831][802]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.12-17.33.57:834][802]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.12-17.33.57:834][802]LogAudioMixer: Display: 1: FrontRight
+[2021.05.12-17.33.57:876][802]LogAudioMixer: Display: Using Audio Device Динамики (2- Устройство с поддержкой High Definition Audio)
+[2021.05.12-17.33.57:876][802]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.12-17.33.57:876][802]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.12-17.33.57:876][802]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.12-17.33.57:877][802]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.12-17.33.57:877][802]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.12-17.33.57:877][802]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.12-17.33.57:879][802]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.12-17.33.57:879][802]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.12-17.33.57:879][802]LogInit: FAudioDevice initialized.
+[2021.05.12-17.33.57:879][802]LogAudio: Display: Audio Device (ID: 32) registered with world 'TopDownExampleMap'.
+[2021.05.12-17.33.57:890][802]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2021.05.12-17.33.57:893][802]LogWorld: Bringing World /Game/AGR_EXAMPLES/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2021.05.12-20.33.57
+[2021.05.12-17.33.57:893][802]LogWorld: Bringing up level for play took: 0.001818
+[2021.05.12-17.33.57:893][802]LogOnline: OSS: Creating online subsystem instance for: :Context_71
+[2021.05.12-17.33.57:896][802]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.05.12-17.33.57:896][802]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.05.12-17.33.57:896][802]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.05.12-17.33.57:905][802]LogBlueprintUserMessages: [BP_StandardEnemy_2] 100.0
+[2021.05.12-17.33.57:905][802]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.05.12-17.33.57:905][802]PIE: Server logged in
+[2021.05.12-17.33.57:906][802]PIE: Play in editor total start time 0.134 seconds.
+[2021.05.12-17.34.01:927][279]LogBlueprintUserMessages: [BP_StandardEnemy_2] 25.0
+[2021.05.12-17.34.01:927][279]LogBlueprintUserMessages: [BP_StandardEnemy_2] 75.0
+[2021.05.12-17.34.02:470][344]LogBlueprintUserMessages: [BP_StandardEnemy_2] 25.0
+[2021.05.12-17.34.02:470][344]LogBlueprintUserMessages: [BP_StandardEnemy_2] 50.0
+[2021.05.12-17.34.02:962][403]LogBlueprintUserMessages: [BP_StandardEnemy_2] 25.0
+[2021.05.12-17.34.02:962][403]LogBlueprintUserMessages: [BP_StandardEnemy_2] 25.0
+[2021.05.12-17.34.03:372][452]LogBlueprintUserMessages: [BP_StandardEnemy_2] Enemy is dead
+[2021.05.12-17.34.03:372][452]LogBlueprintUserMessages: [BP_StandardEnemy_2] 25.0
+[2021.05.12-17.34.03:372][452]LogBlueprintUserMessages: [BP_StandardEnemy_2] 0.0
+[2021.05.12-17.34.05:945][755]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.12-17.34.05:945][755]LogWorld: BeginTearingDown for /Game/AGR_EXAMPLES/Maps/UEDPIE_0_TopDownExampleMap
+[2021.05.12-17.34.05:945][755]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.12-17.34.05:946][755]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.12-17.34.05:954][755]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.12-17.34.05:970][755]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.12-17.34.05:996][755]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.12-17.34.05:996][755]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.12-17.34.05:997][755]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.12-17.34.06:010][755]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.12-17.34.06:013][755]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2021.05.12-17.34.06:053][756]LogPlayLevel: Display: Destroying online subsystem :Context_71
+[2021.05.12-17.39.36:885][979]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Assets/ParagonGRIMexe/Characters/Heroes/GRIM/Animations/Idle.Idle
+[2021.05.12-17.39.36:888][979]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_40:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.05.12-17.39.37:989][979]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.05.12-17.39.41:785][315]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2021.05.12-17.39.41:785][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.12-17.39.41:800][315]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2021.05.12-17.39.41:800][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.12-17.39.41:892][315]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2021.05.12-17.39.41:892][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.12-17.39.47:932][900]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.05.12-17.40.02:239][195]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2021.05.12-17.40.02:321][195]LogSavePackage: Moving '../../../../ShatteredRealm/MainGame/Saved/TopDownExampleMap45FD7FBB4B9877558A0266B65A165CE9.tmp' to '../../../../ShatteredRealm/MainGame/Content/AGR_EXAMPLES/Maps/TopDownExampleMap.umap'
+[2021.05.12-17.40.02:330][195]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AGR_EXAMPLES/Maps/TopDownExampleMap_BuiltData" FILE="../../../../ShatteredRealm/MainGame/Content/AGR_EXAMPLES/Maps/TopDownExampleMap_BuiltData.uasset" SILENT=true
+[2021.05.12-17.40.02:419][195]LogSavePackage: Moving '../../../../ShatteredRealm/MainGame/Saved/TopDownExampleMap_BuiltData7481005348A99EB8694BC391910A3934.tmp' to '../../../../ShatteredRealm/MainGame/Content/AGR_EXAMPLES/Maps/TopDownExampleMap_BuiltData.uasset'
+[2021.05.12-17.40.02:433][195]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.12-17.40.02:433][195]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/AGR_EXAMPLES/Maps/TopDownExampleMap_BuiltData.TopDownExampleMap_BuiltData
+[2021.05.12-17.40.02:433][195]LogContentValidation: Display: Validating World /Game/AGR_EXAMPLES/Maps/TopDownExampleMap.TopDownExampleMap
+[2021.05.12-17.40.03:867][342]BlueprintLog: New page: Compile BP_StandardEnemy
+[2021.05.12-17.40.03:957][342]LogUObjectHash: Compacting FUObjectHashTables data took   4.78ms
+[2021.05.12-17.40.04:567][400]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/BP_StandardEnemy" FILE="../../../../ShatteredRealm/MainGame/Content/Blueprints/AI/BP_StandardEnemy.uasset" SILENT=true
+[2021.05.12-17.40.04:583][400]LogSavePackage: Moving '../../../../ShatteredRealm/MainGame/Saved/BP_StandardEnemy0B30A03D4D596A2FB94CDEBDB70C9BC5.tmp' to '../../../../ShatteredRealm/MainGame/Content/Blueprints/AI/BP_StandardEnemy.uasset'
+[2021.05.12-17.40.04:595][400]AssetCheck: New page: Asset Save: BP_StandardEnemy
+[2021.05.12-17.40.04:595][400]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/AI/BP_StandardEnemy.BP_StandardEnemy
+[2021.05.12-17.40.06:937][637]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2021.05.12-17.40.06:992][637]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.05.12-17.40.07:091][637]LogSavePackage: Moving '../../../../ShatteredRealm/MainGame/Saved/TopDownExampleMap18E8E00B46EB4981349555BE3FA975A9.tmp' to '../../../../ShatteredRealm/MainGame/Content/AGR_EXAMPLES/Maps/TopDownExampleMap.umap'
+[2021.05.12-17.40.07:099][637]LogFileHelpers: Saving map 'TopDownExampleMap' took 0.139
+[2021.05.12-17.40.07:116][637]AssetCheck: New page: Asset Save: TopDownExampleMap
+[2021.05.12-17.40.07:116][637]LogContentValidation: Display: Validating World /Game/AGR_EXAMPLES/Maps/TopDownExampleMap.TopDownExampleMap
+[2021.05.12-17.40.08:326][741]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.12-17.40.08:332][741]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.12-17.40.08:332][741]PIE: New page: PIE session: TopDownExampleMap (May 12, 2021, 11:40:08 PM)
+[2021.05.12-17.40.08:332][741]LogPlayLevel: Creating play world package: /Game/AGR_EXAMPLES/Maps/UEDPIE_0_TopDownExampleMap
+[2021.05.12-17.40.08:345][741]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012944s)
+[2021.05.12-17.40.08:346][741]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.05.12-17.40.08:346][741]LogPlayLevel: PIE: World Init took: (0.001189s)
+[2021.05.12-17.40.08:346][741]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AGR_EXAMPLES/Maps/TopDownExampleMap.TopDownExampleMap to /Game/AGR_EXAMPLES/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.014262s)
+[2021.05.12-17.40.08:381][741]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2021.05.12-17.40.08:383][741]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2021.05.12-17.40.08:383][741]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.12-17.40.08:383][741]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.12-17.40.08:383][741]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.12-17.40.08:383][741]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.12-17.40.08:383][741]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.12-17.40.08:383][741]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.12-17.40.08:383][741]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.12-17.40.08:383][741]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.12-17.40.08:383][741]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.12-17.40.08:383][741]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.12-17.40.08:387][741]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.12-17.40.08:387][741]LogAudioMixer: Display: 1: FrontRight
+[2021.05.12-17.40.08:431][741]LogAudioMixer: Display: Using Audio Device Динамики (2- Устройство с поддержкой High Definition Audio)
+[2021.05.12-17.40.08:431][741]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.12-17.40.08:431][741]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.12-17.40.08:431][741]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.12-17.40.08:432][741]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.12-17.40.08:432][741]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.12-17.40.08:432][741]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.12-17.40.08:435][741]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.12-17.40.08:435][741]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.12-17.40.08:435][741]LogInit: FAudioDevice initialized.
+[2021.05.12-17.40.08:435][741]LogAudio: Display: Audio Device (ID: 33) registered with world 'TopDownExampleMap'.
+[2021.05.12-17.40.08:448][741]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2021.05.12-17.40.08:449][741]LogWorld: Bringing World /Game/AGR_EXAMPLES/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2021.05.12-20.40.08
+[2021.05.12-17.40.08:450][741]LogWorld: Bringing up level for play took: 0.001700
+[2021.05.12-17.40.08:450][741]LogOnline: OSS: Creating online subsystem instance for: :Context_75
+[2021.05.12-17.40.08:453][741]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.05.12-17.40.08:453][741]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.05.12-17.40.08:453][741]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.05.12-17.40.08:462][741]LogBlueprintUserMessages: [BP_StandardEnemy_2] 100.0
+[2021.05.12-17.40.08:463][741]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.05.12-17.40.08:463][741]PIE: Server logged in
+[2021.05.12-17.40.08:464][741]PIE: Play in editor total start time 0.132 seconds.
+[2021.05.12-17.40.09:999][920]LogBlueprintUserMessages: [BP_StandardEnemy_2] 25.0
+[2021.05.12-17.40.09:999][920]LogBlueprintUserMessages: [BP_StandardEnemy_2] 75.0
+[2021.05.12-17.40.10:921][ 30]LogBlueprintUserMessages: [BP_StandardEnemy_2] 25.0
+[2021.05.12-17.40.10:921][ 30]LogBlueprintUserMessages: [BP_StandardEnemy_2] 50.0
+[2021.05.12-17.40.11:407][ 87]LogBlueprintUserMessages: [BP_StandardEnemy_2] 25.0
+[2021.05.12-17.40.11:407][ 87]LogBlueprintUserMessages: [BP_StandardEnemy_2] 25.0
+[2021.05.12-17.40.13:977][394]LogBlueprintUserMessages: [BP_StandardEnemy_2] Enemy is dead
+[2021.05.12-17.40.13:977][394]LogBlueprintUserMessages: [BP_StandardEnemy_2] 25.0
+[2021.05.12-17.40.13:977][394]LogBlueprintUserMessages: [BP_StandardEnemy_2] 0.0
+[2021.05.12-17.40.16:115][642]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.12-17.40.16:115][642]LogWorld: BeginTearingDown for /Game/AGR_EXAMPLES/Maps/UEDPIE_0_TopDownExampleMap
+[2021.05.12-17.40.16:115][642]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.12-17.40.16:115][642]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.12-17.40.16:122][642]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.12-17.40.16:140][642]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.12-17.40.16:172][642]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.12-17.40.16:172][642]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.12-17.40.16:173][642]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.12-17.40.16:188][642]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2021.05.12-17.40.16:229][643]LogPlayLevel: Display: Destroying online subsystem :Context_75
+[2021.05.12-17.41.23:436][638]BlueprintLog: New page: Compile BP_StandardEnemy
+[2021.05.12-17.41.23:519][638]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2021.05.12-17.41.23:957][670]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/BP_StandardEnemy" FILE="../../../../ShatteredRealm/MainGame/Content/Blueprints/AI/BP_StandardEnemy.uasset" SILENT=true
+[2021.05.12-17.41.23:977][670]LogSavePackage: Moving '../../../../ShatteredRealm/MainGame/Saved/BP_StandardEnemyAA8488424CDA91086E1F1D8C4278EBB3.tmp' to '../../../../ShatteredRealm/MainGame/Content/Blueprints/AI/BP_StandardEnemy.uasset'
+[2021.05.12-17.41.23:991][670]AssetCheck: New page: Asset Save: BP_StandardEnemy
+[2021.05.12-17.41.23:991][670]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/AI/BP_StandardEnemy.BP_StandardEnemy
+[2021.05.12-17.41.24:946][750]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2021.05.12-17.41.24:962][750]LogSavePackage: Moving '../../../../ShatteredRealm/MainGame/Saved/TopDownExampleMap96A8632F4758958E30CE909CABDBDB85.tmp' to '../../../../ShatteredRealm/MainGame/Content/AGR_EXAMPLES/Maps/TopDownExampleMap.umap'
+[2021.05.12-17.41.24:971][750]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AGR_EXAMPLES/Maps/TopDownExampleMap_BuiltData" FILE="../../../../ShatteredRealm/MainGame/Content/AGR_EXAMPLES/Maps/TopDownExampleMap_BuiltData.uasset" SILENT=true
+[2021.05.12-17.41.25:044][750]LogSavePackage: Moving '../../../../ShatteredRealm/MainGame/Saved/TopDownExampleMap_BuiltDataD0C6CB304B4042C5373DA4AFEAD9EA3D.tmp' to '../../../../ShatteredRealm/MainGame/Content/AGR_EXAMPLES/Maps/TopDownExampleMap_BuiltData.uasset'
+[2021.05.12-17.41.25:055][750]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.12-17.41.25:055][750]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/AGR_EXAMPLES/Maps/TopDownExampleMap_BuiltData.TopDownExampleMap_BuiltData
+[2021.05.12-17.41.25:055][750]LogContentValidation: Display: Validating World /Game/AGR_EXAMPLES/Maps/TopDownExampleMap.TopDownExampleMap
+[2021.05.12-17.41.25:885][826]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.12-17.41.25:891][826]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.12-17.41.25:891][826]PIE: New page: PIE session: TopDownExampleMap (May 12, 2021, 11:41:25 PM)
+[2021.05.12-17.41.25:891][826]LogPlayLevel: Creating play world package: /Game/AGR_EXAMPLES/Maps/UEDPIE_0_TopDownExampleMap
+[2021.05.12-17.41.25:906][826]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015371s)
+[2021.05.12-17.41.25:908][826]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.05.12-17.41.25:908][826]LogPlayLevel: PIE: World Init took: (0.001625s)
+[2021.05.12-17.41.25:908][826]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AGR_EXAMPLES/Maps/TopDownExampleMap.TopDownExampleMap to /Game/AGR_EXAMPLES/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.017156s)
+[2021.05.12-17.41.25:954][826]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2021.05.12-17.41.25:956][826]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2021.05.12-17.41.25:956][826]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.12-17.41.25:956][826]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.12-17.41.25:956][826]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.12-17.41.25:956][826]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.12-17.41.25:956][826]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.12-17.41.25:956][826]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.12-17.41.25:956][826]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.12-17.41.25:956][826]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.12-17.41.25:956][826]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.12-17.41.25:956][826]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.12-17.41.25:959][826]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.12-17.41.25:959][826]LogAudioMixer: Display: 1: FrontRight
+[2021.05.12-17.41.26:007][826]LogAudioMixer: Display: Using Audio Device Динамики (2- Устройство с поддержкой High Definition Audio)
+[2021.05.12-17.41.26:007][826]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.12-17.41.26:008][826]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.12-17.41.26:008][826]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.12-17.41.26:008][826]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.12-17.41.26:008][826]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.12-17.41.26:008][826]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.12-17.41.26:010][826]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.12-17.41.26:010][826]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.12-17.41.26:010][826]LogInit: FAudioDevice initialized.
+[2021.05.12-17.41.26:010][826]LogAudio: Display: Audio Device (ID: 34) registered with world 'TopDownExampleMap'.
+[2021.05.12-17.41.26:019][826]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2021.05.12-17.41.26:020][826]LogWorld: Bringing World /Game/AGR_EXAMPLES/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2021.05.12-20.41.26
+[2021.05.12-17.41.26:021][826]LogWorld: Bringing up level for play took: 0.001612
+[2021.05.12-17.41.26:021][826]LogOnline: OSS: Creating online subsystem instance for: :Context_76
+[2021.05.12-17.41.26:024][826]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.05.12-17.41.26:024][826]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.05.12-17.41.26:024][826]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.05.12-17.41.26:033][826]LogBlueprintUserMessages: [BP_StandardEnemy_2] 100.0
+[2021.05.12-17.41.26:034][826]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.05.12-17.41.26:034][826]PIE: Server logged in
+[2021.05.12-17.41.26:034][826]PIE: Play in editor total start time 0.144 seconds.
+[2021.05.12-17.41.27:409][986]LogBlueprintUserMessages: [BP_StandardEnemy_2] 25.0
+[2021.05.12-17.41.27:409][986]LogBlueprintUserMessages: [BP_StandardEnemy_2] 75.0
+[2021.05.12-17.41.28:543][120]LogBlueprintUserMessages: [BP_StandardEnemy_2] 25.0
+[2021.05.12-17.41.28:543][120]LogBlueprintUserMessages: [BP_StandardEnemy_2] 50.0
+[2021.05.12-17.41.29:196][197]LogBlueprintUserMessages: [BP_StandardEnemy_2] 25.0
+[2021.05.12-17.41.29:196][197]LogBlueprintUserMessages: [BP_StandardEnemy_2] 25.0
+[2021.05.12-17.41.29:649][249]LogBlueprintUserMessages: [BP_StandardEnemy_2] Enemy is dead
+[2021.05.12-17.41.29:650][249]LogBlueprintUserMessages: [BP_StandardEnemy_2] 25.0
+[2021.05.12-17.41.29:650][249]LogBlueprintUserMessages: [BP_StandardEnemy_2] 0.0
+[2021.05.12-17.41.31:474][458]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.12-17.41.31:474][458]LogWorld: BeginTearingDown for /Game/AGR_EXAMPLES/Maps/UEDPIE_0_TopDownExampleMap
+[2021.05.12-17.41.31:474][458]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.12-17.41.31:475][458]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.12-17.41.31:484][458]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.12-17.41.31:503][458]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.12-17.41.31:535][458]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.12-17.41.31:535][458]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.12-17.41.31:536][458]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.12-17.41.31:548][458]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.12-17.41.31:551][458]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2021.05.12-17.41.31:593][459]LogPlayLevel: Display: Destroying online subsystem :Context_76
+[2021.05.12-17.42.03:959][ 93]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Player/BP_TDController.BP_TDController
+[2021.05.12-17.42.59:783][575]BlueprintLog: New page: Compile BP_TDController
+[2021.05.12-17.42.59:869][575]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2021.05.12-17.43.00:272][608]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player/BP_TDController" FILE="../../../../ShatteredRealm/MainGame/Content/Blueprints/Player/BP_TDController.uasset" SILENT=true
+[2021.05.12-17.43.00:331][608]LogSavePackage: Moving '../../../../ShatteredRealm/MainGame/Saved/BP_TDController3BF3102B44DD4672DE7BCA85CD130E48.tmp' to '../../../../ShatteredRealm/MainGame/Content/Blueprints/Player/BP_TDController.uasset'
+[2021.05.12-17.43.00:345][608]AssetCheck: New page: Asset Save: BP_TDController
+[2021.05.12-17.43.00:345][608]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player/BP_TDController.BP_TDController
+[2021.05.12-17.43.01:635][725]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.12-17.43.01:642][725]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.12-17.43.01:642][725]PIE: New page: PIE session: TopDownExampleMap (May 12, 2021, 11:43:01 PM)
+[2021.05.12-17.43.01:642][725]LogPlayLevel: Creating play world package: /Game/AGR_EXAMPLES/Maps/UEDPIE_0_TopDownExampleMap
+[2021.05.12-17.43.01:655][725]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013445s)
+[2021.05.12-17.43.01:657][725]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.05.12-17.43.01:657][725]LogPlayLevel: PIE: World Init took: (0.001547s)
+[2021.05.12-17.43.01:657][725]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AGR_EXAMPLES/Maps/TopDownExampleMap.TopDownExampleMap to /Game/AGR_EXAMPLES/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.015155s)
+[2021.05.12-17.43.01:709][725]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2021.05.12-17.43.01:710][725]LogAudio: Display: Creating Audio Device:                 Id: 35, Scope: Unique, Realtime: True
+[2021.05.12-17.43.01:711][725]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.12-17.43.01:711][725]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.12-17.43.01:711][725]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.12-17.43.01:711][725]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.12-17.43.01:711][725]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.12-17.43.01:711][725]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.12-17.43.01:711][725]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.12-17.43.01:711][725]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.12-17.43.01:711][725]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.12-17.43.01:711][725]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.12-17.43.01:714][725]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.12-17.43.01:714][725]LogAudioMixer: Display: 1: FrontRight
+[2021.05.12-17.43.01:757][725]LogAudioMixer: Display: Using Audio Device Динамики (2- Устройство с поддержкой High Definition Audio)
+[2021.05.12-17.43.01:757][725]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.12-17.43.01:757][725]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.12-17.43.01:757][725]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.12-17.43.01:757][725]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.12-17.43.01:757][725]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.12-17.43.01:757][725]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.12-17.43.01:759][725]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.12-17.43.01:759][725]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.12-17.43.01:759][725]LogInit: FAudioDevice initialized.
+[2021.05.12-17.43.01:759][725]LogAudio: Display: Audio Device (ID: 35) registered with world 'TopDownExampleMap'.
+[2021.05.12-17.43.01:776][725]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2021.05.12-17.43.01:778][725]LogWorld: Bringing World /Game/AGR_EXAMPLES/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2021.05.12-20.43.01
+[2021.05.12-17.43.01:779][725]LogWorld: Bringing up level for play took: 0.001710
+[2021.05.12-17.43.01:779][725]LogOnline: OSS: Creating online subsystem instance for: :Context_78
+[2021.05.12-17.43.01:781][725]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.05.12-17.43.01:781][725]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.05.12-17.43.01:782][725]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.05.12-17.43.01:791][725]LogBlueprintUserMessages: [BP_StandardEnemy_2] 100.0
+[2021.05.12-17.43.01:791][725]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.05.12-17.43.01:791][725]PIE: Server logged in
+[2021.05.12-17.43.01:792][725]PIE: Play in editor total start time 0.151 seconds.
+[2021.05.12-17.43.05:481][151]LogBlueprintUserMessages: [BP_StandardEnemy_2] 25.0
+[2021.05.12-17.43.05:481][151]LogBlueprintUserMessages: [BP_StandardEnemy_2] 75.0
+[2021.05.12-17.43.05:860][195]LogBlueprintUserMessages: [BP_StandardEnemy_2] 25.0
+[2021.05.12-17.43.05:860][195]LogBlueprintUserMessages: [BP_StandardEnemy_2] 50.0
+[2021.05.12-17.43.06:080][220]LogBlueprintUserMessages: [BP_StandardEnemy_2] 25.0
+[2021.05.12-17.43.06:081][220]LogBlueprintUserMessages: [BP_StandardEnemy_2] 25.0
+[2021.05.12-17.43.07:224][339]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.12-17.43.07:224][339]LogWorld: BeginTearingDown for /Game/AGR_EXAMPLES/Maps/UEDPIE_0_TopDownExampleMap
+[2021.05.12-17.43.07:224][339]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.12-17.43.07:225][339]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.12-17.43.07:233][339]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.12-17.43.07:251][339]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.12-17.43.07:286][339]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.12-17.43.07:286][339]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.12-17.43.07:287][339]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.12-17.43.07:299][339]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.12-17.43.07:303][339]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2021.05.12-17.43.07:345][340]LogPlayLevel: Display: Destroying online subsystem :Context_78
+[2021.05.12-17.43.21:869][884]BlueprintLog: New page: Compile BP_TDController
+[2021.05.12-17.43.21:894][884]LogBlueprint: Error: [AssetLog] D:\ShatteredRealm\MainGame\Content\Blueprints\Player\BP_TDController.uasset: [Compiler] Could not find a function named "Neutral Pose" in 'BP_TDController_C'.
+Make sure 'BP_TDController_C' has been compiled for  Neutral Pose
+[2021.05.12-17.43.21:965][884]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2021.05.12-17.43.22:409][917]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player/BP_TDController" FILE="../../../../ShatteredRealm/MainGame/Content/Blueprints/Player/BP_TDController.uasset" SILENT=true
+[2021.05.12-17.43.22:464][917]LogSavePackage: Moving '../../../../ShatteredRealm/MainGame/Saved/BP_TDController9E4342F14892CF2CE681B899FD43F73D.tmp' to '../../../../ShatteredRealm/MainGame/Content/Blueprints/Player/BP_TDController.uasset'
+[2021.05.12-17.43.22:478][917]AssetCheck: New page: Asset Save: BP_TDController
+[2021.05.12-17.43.22:478][917]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player/BP_TDController.BP_TDController
+[2021.05.12-17.43.28:391][581]BlueprintLog: New page: Compile BP_TDController
+[2021.05.12-17.43.28:472][581]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2021.05.12-17.43.28:852][612]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player/BP_TDController" FILE="../../../../ShatteredRealm/MainGame/Content/Blueprints/Player/BP_TDController.uasset" SILENT=true
+[2021.05.12-17.43.28:905][612]LogSavePackage: Moving '../../../../ShatteredRealm/MainGame/Saved/BP_TDController505FB9294D767276B890E0A7CEA43EB3.tmp' to '../../../../ShatteredRealm/MainGame/Content/Blueprints/Player/BP_TDController.uasset'
+[2021.05.12-17.43.28:920][612]AssetCheck: New page: Asset Save: BP_TDController
+[2021.05.12-17.43.28:920][612]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player/BP_TDController.BP_TDController
+[2021.05.12-17.43.30:811][800]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.12-17.43.30:817][800]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.12-17.43.30:817][800]PIE: New page: PIE session: TopDownExampleMap (May 12, 2021, 11:43:30 PM)
+[2021.05.12-17.43.30:817][800]LogPlayLevel: Creating play world package: /Game/AGR_EXAMPLES/Maps/UEDPIE_0_TopDownExampleMap
+[2021.05.12-17.43.30:831][800]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013227s)
+[2021.05.12-17.43.30:832][800]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.05.12-17.43.30:832][800]LogPlayLevel: PIE: World Init took: (0.001598s)
+[2021.05.12-17.43.30:832][800]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AGR_EXAMPLES/Maps/TopDownExampleMap.TopDownExampleMap to /Game/AGR_EXAMPLES/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.014984s)
+[2021.05.12-17.43.30:879][800]LogUObjectHash: Compacting FUObjectHashTables data took   4.92ms
+[2021.05.12-17.43.30:880][800]LogAudio: Display: Creating Audio Device:                 Id: 36, Scope: Unique, Realtime: True
+[2021.05.12-17.43.30:880][800]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.12-17.43.30:880][800]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.12-17.43.30:880][800]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.12-17.43.30:880][800]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.12-17.43.30:880][800]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.12-17.43.30:880][800]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.12-17.43.30:880][800]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.12-17.43.30:880][800]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.12-17.43.30:881][800]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.12-17.43.30:881][800]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.12-17.43.30:884][800]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.12-17.43.30:884][800]LogAudioMixer: Display: 1: FrontRight
+[2021.05.12-17.43.30:932][800]LogAudioMixer: Display: Using Audio Device Динамики (2- Устройство с поддержкой High Definition Audio)
+[2021.05.12-17.43.30:933][800]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.12-17.43.30:933][800]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.12-17.43.30:933][800]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.12-17.43.30:933][800]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.12-17.43.30:933][800]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.12-17.43.30:933][800]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.12-17.43.30:936][800]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.12-17.43.30:936][800]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.12-17.43.30:936][800]LogInit: FAudioDevice initialized.
+[2021.05.12-17.43.30:936][800]LogAudio: Display: Audio Device (ID: 36) registered with world 'TopDownExampleMap'.
+[2021.05.12-17.43.30:949][800]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2021.05.12-17.43.30:951][800]LogWorld: Bringing World /Game/AGR_EXAMPLES/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2021.05.12-20.43.30
+[2021.05.12-17.43.30:951][800]LogWorld: Bringing up level for play took: 0.001702
+[2021.05.12-17.43.30:952][800]LogOnline: OSS: Creating online subsystem instance for: :Context_79
+[2021.05.12-17.43.30:955][800]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.05.12-17.43.30:955][800]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.05.12-17.43.30:955][800]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.05.12-17.43.30:964][800]LogBlueprintUserMessages: [BP_StandardEnemy_2] 100.0
+[2021.05.12-17.43.30:965][800]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.05.12-17.43.30:965][800]PIE: Server logged in
+[2021.05.12-17.43.30:966][800]PIE: Play in editor total start time 0.151 seconds.
+[2021.05.12-17.43.35:053][285]LogBlueprintUserMessages: [BP_StandardEnemy_2] 25.0
+[2021.05.12-17.43.35:053][285]LogBlueprintUserMessages: [BP_StandardEnemy_2] 75.0
+[2021.05.12-17.43.35:599][350]LogBlueprintUserMessages: [BP_StandardEnemy_2] 25.0
+[2021.05.12-17.43.35:599][350]LogBlueprintUserMessages: [BP_StandardEnemy_2] 50.0
+[2021.05.12-17.43.36:158][415]LogBlueprintUserMessages: [BP_StandardEnemy_2] 25.0
+[2021.05.12-17.43.36:158][415]LogBlueprintUserMessages: [BP_StandardEnemy_2] 25.0
+[2021.05.12-17.43.36:613][468]LogBlueprintUserMessages: [BP_StandardEnemy_2] Enemy is dead
+[2021.05.12-17.43.36:613][468]LogBlueprintUserMessages: [BP_StandardEnemy_2] 25.0
+[2021.05.12-17.43.36:613][468]LogBlueprintUserMessages: [BP_StandardEnemy_2] 0.0
+[2021.05.12-17.43.42:484][162]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.12-17.43.42:484][162]LogWorld: BeginTearingDown for /Game/AGR_EXAMPLES/Maps/UEDPIE_0_TopDownExampleMap
+[2021.05.12-17.43.42:484][162]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.12-17.43.42:484][162]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.12-17.43.42:493][162]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.12-17.43.42:514][162]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.12-17.43.42:549][162]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.12-17.43.42:549][162]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.12-17.43.42:550][162]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.12-17.43.42:566][162]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2021.05.12-17.43.42:609][163]LogPlayLevel: Display: Destroying online subsystem :Context_79
+[2021.05.12-17.45.03:313][983]BlueprintLog: New page: Compile BP_StandardEnemy_Anim
+[2021.05.12-17.45.03:381][983]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2021.05.12-17.45.04:097][ 48]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/BP_StandardEnemy_Anim" FILE="../../../../ShatteredRealm/MainGame/Content/Blueprints/AI/BP_StandardEnemy_Anim.uasset" SILENT=true
+[2021.05.12-17.45.04:121][ 48]LogSavePackage: Moving '../../../../ShatteredRealm/MainGame/Saved/BP_StandardEnemy_Anim0CA4EDB843A7A3B3B01784A1992D96D3.tmp' to '../../../../ShatteredRealm/MainGame/Content/Blueprints/AI/BP_StandardEnemy_Anim.uasset'
+[2021.05.12-17.45.04:135][ 48]AssetCheck: New page: Asset Save: BP_StandardEnemy_Anim
+[2021.05.12-17.45.04:135][ 48]LogContentValidation: Display: Validating AnimBlueprint /Game/Blueprints/AI/BP_StandardEnemy_Anim.BP_StandardEnemy_Anim
+[2021.05.12-17.45.21:040][932]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.12-17.45.21:046][932]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.12-17.45.21:046][932]PIE: New page: PIE session: TopDownExampleMap (May 12, 2021, 11:45:21 PM)
+[2021.05.12-17.45.21:046][932]LogPlayLevel: Creating play world package: /Game/AGR_EXAMPLES/Maps/UEDPIE_0_TopDownExampleMap
+[2021.05.12-17.45.21:061][932]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014619s)
+[2021.05.12-17.45.21:062][932]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.05.12-17.45.21:062][932]LogPlayLevel: PIE: World Init took: (0.001222s)
+[2021.05.12-17.45.21:062][932]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AGR_EXAMPLES/Maps/TopDownExampleMap.TopDownExampleMap to /Game/AGR_EXAMPLES/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.015984s)
+[2021.05.12-17.45.21:107][932]LogUObjectHash: Compacting FUObjectHashTables data took   5.00ms
+[2021.05.12-17.45.21:111][932]LogAudio: Display: Creating Audio Device:                 Id: 37, Scope: Unique, Realtime: True
+[2021.05.12-17.45.21:111][932]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.12-17.45.21:111][932]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.12-17.45.21:111][932]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.12-17.45.21:111][932]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.12-17.45.21:111][932]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.12-17.45.21:111][932]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.12-17.45.21:111][932]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.12-17.45.21:111][932]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.12-17.45.21:112][932]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.12-17.45.21:112][932]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.12-17.45.21:116][932]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.12-17.45.21:116][932]LogAudioMixer: Display: 1: FrontRight
+[2021.05.12-17.45.21:165][932]LogAudioMixer: Display: Using Audio Device Динамики (2- Устройство с поддержкой High Definition Audio)
+[2021.05.12-17.45.21:165][932]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.12-17.45.21:165][932]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.12-17.45.21:165][932]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.12-17.45.21:166][932]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.12-17.45.21:166][932]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.12-17.45.21:166][932]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.12-17.45.21:169][932]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.12-17.45.21:169][932]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.12-17.45.21:169][932]LogInit: FAudioDevice initialized.
+[2021.05.12-17.45.21:169][932]LogAudio: Display: Audio Device (ID: 37) registered with world 'TopDownExampleMap'.
+[2021.05.12-17.45.21:178][932]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2021.05.12-17.45.21:181][932]LogWorld: Bringing World /Game/AGR_EXAMPLES/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2021.05.12-20.45.21
+[2021.05.12-17.45.21:181][932]LogWorld: Bringing up level for play took: 0.002068
+[2021.05.12-17.45.21:181][932]LogOnline: OSS: Creating online subsystem instance for: :Context_80
+[2021.05.12-17.45.21:184][932]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.05.12-17.45.21:184][932]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.05.12-17.45.21:184][932]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.05.12-17.45.21:193][932]LogBlueprintUserMessages: [BP_StandardEnemy_2] 100.0
+[2021.05.12-17.45.21:194][932]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.05.12-17.45.21:194][932]PIE: Server logged in
+[2021.05.12-17.45.21:195][932]PIE: Play in editor total start time 0.15 seconds.
+[2021.05.12-17.45.22:626][100]LogBlueprintUserMessages: [BP_StandardEnemy_2] 25.0
+[2021.05.12-17.45.22:626][100]LogBlueprintUserMessages: [BP_StandardEnemy_2] 75.0
+[2021.05.12-17.45.23:868][249]LogBlueprintUserMessages: [BP_StandardEnemy_2] 25.0
+[2021.05.12-17.45.23:868][249]LogBlueprintUserMessages: [BP_StandardEnemy_2] 50.0
+[2021.05.12-17.45.24:244][294]LogBlueprintUserMessages: [BP_StandardEnemy_2] 25.0
+[2021.05.12-17.45.24:244][294]LogBlueprintUserMessages: [BP_StandardEnemy_2] 25.0
+[2021.05.12-17.45.24:552][331]LogBlueprintUserMessages: [BP_StandardEnemy_2] Enemy is dead
+[2021.05.12-17.45.24:552][331]LogBlueprintUserMessages: [BP_StandardEnemy_2] 25.0
+[2021.05.12-17.45.24:552][331]LogBlueprintUserMessages: [BP_StandardEnemy_2] 0.0
+[2021.05.12-17.45.25:754][468]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.12-17.45.25:754][468]LogWorld: BeginTearingDown for /Game/AGR_EXAMPLES/Maps/UEDPIE_0_TopDownExampleMap
+[2021.05.12-17.45.25:754][468]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.12-17.45.25:754][468]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.12-17.45.25:762][468]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.12-17.45.25:780][468]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.12-17.45.25:816][468]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.12-17.45.25:816][468]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.12-17.45.25:817][468]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.12-17.45.25:833][468]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2021.05.12-17.45.25:877][469]LogPlayLevel: Display: Destroying online subsystem :Context_80
+[2021.05.12-17.45.27:594][612]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2021.05.12-17.45.27:614][612]LogSavePackage: Moving '../../../../ShatteredRealm/MainGame/Saved/TopDownExampleMapB7CA70104B33D21532F9E689A934AEE2.tmp' to '../../../../ShatteredRealm/MainGame/Content/AGR_EXAMPLES/Maps/TopDownExampleMap.umap'
+[2021.05.12-17.45.27:624][612]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AGR_EXAMPLES/Maps/TopDownExampleMap_BuiltData" FILE="../../../../ShatteredRealm/MainGame/Content/AGR_EXAMPLES/Maps/TopDownExampleMap_BuiltData.uasset" SILENT=true
+[2021.05.12-17.45.27:731][612]LogSavePackage: Moving '../../../../ShatteredRealm/MainGame/Saved/TopDownExampleMap_BuiltData6AE0DACC4B36B75CB37B2885430C0AFA.tmp' to '../../../../ShatteredRealm/MainGame/Content/AGR_EXAMPLES/Maps/TopDownExampleMap_BuiltData.uasset'
+[2021.05.12-17.45.27:748][612]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.12-17.45.27:748][612]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/AGR_EXAMPLES/Maps/TopDownExampleMap_BuiltData.TopDownExampleMap_BuiltData
+[2021.05.12-17.45.27:748][612]LogContentValidation: Display: Validating World /Game/AGR_EXAMPLES/Maps/TopDownExampleMap.TopDownExampleMap
+[2021.05.12-17.45.29:689][792]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
