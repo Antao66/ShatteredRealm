@@ -76,3 +76,7 @@ DerivedDataCache/*
 #Custom ignores
 *.log
 MainGame/Content/Assets/*
+KiteDemo/*
+Lighting/*
+ParagonProps/*
+SampleMap/*
